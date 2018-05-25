@@ -380,9 +380,3 @@ Mikolov T, Karafi´at M, Burget L, et al. Recurrent neural network based languag
 
 
 
-# 参考
-
-
-
-
-
