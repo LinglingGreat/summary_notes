@@ -406,44 +406,6 @@ $Z_u = \sum_{v \in V} exp(f(u)·f(v))$
 - 用学到的向量去做分类任务的特征，结果比其他方法好很多，并且这种方法很鲁棒！即使缺少边也没问题。
 - 可扩展到大规模 node！
 
-
-
-## DKRL-基于文本+结构的embedding-[2016AAAI]
-
-R Xie，Z Liu，J Jia，... - 2016
-
-Representation Learning of Knowledge Graphs with Entity Descriptions
-
-AAAI
-
-考虑实体描述的知识表示学习模型(description-embodied knowledge representation learning, DKRL)提出在知识表示学习中考虑Freebase等知识库中提供的实体描述文本信息。在文本表示方面，DKRL考虑了2种模型：一种是CBOW,将文本中的词向量简单相加作为文本表示；一种是卷积神经网络(convolutional neural network,CNN),能够考虑文本中的词序信息。
-
-优势：除了能够提升实体表示的区分能力外，还能实现对新实体的表示。当新出现一个未曾在知识库中的实体时，DKRL可以根据它的简短描述产生它的实体表示，用于知识图谱补全等任务。
-
-Description-Embodied Knowledge Representation Learning
-
-每个头结点和尾结点有两个向量，分别是基于结构s的向量和基于文本描述d的向量
-
-energy function:
-
-$E = E_S + E_D,   E_D = E_{DD} + E_{DS}+E_{SD}$
-
-$E_{DD}=||h_d+r-t_d||, E_{DS}=||h_d+r-t_s||, E_{SD}=||h_s+r-t_d||$
-
-two encoders to build description-based representations
-
-**Continuous Bag-of-words Encoder**
-
-为每个实体选择文本描述中的top n个关键词(可以用TF-IDF进行排序)作为输入，将关键词的embeddings加起来作为实体的embedding，用来最小化$E_D$
-
-**Convolutional Neural Network Encoder**
-
-5层，实体的预处理后的文本描述作为输入，输出该实体基于文本描述的embedding.
-
-预处理：去停用词，标记文本描述中的短语，将它们作为词，每个词有一个word embedding，作为CNN的输入。
-
-
-
 ## structure2vec-[2016]
 
 Dai H, Dai B, Song L. 
@@ -466,7 +428,7 @@ Structured data, such as sequences, trees and graphs
 
 累加器有三种：Mean aggregator, LSTM aggregator, Pooling aggregator
 
-
+![1529398702458](img/graphsage.png)
 
 Hamilton W, Ying Z, Leskovec J. 
 
@@ -476,7 +438,9 @@ Inductive representation learning on large graphs
 
 
 
-## APP-非对称相似度-阿里-[2017AAAI]
+##Proximity
+
+###APP-非对称相似度-阿里-[2017AAAI]
 
 Scalable Graph Embedding for Asymmetric Proximity    C Zhou，Y Liu，X Liu，... - 2017
 
@@ -584,40 +548,6 @@ Towards scaling fully personalized pagerank: Algorithms, lower bounds, and exper
 
 Internet Mathematics
 
-
-
-**DeepWalk**
-
-
-
-Perozzi, B.; Al-Rfou, R.; and Skiena, S. 2014. 
-
-Deepwalk: Online learning of social representations. 
-
-In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining
-
-**Line**
-
-
-
-Tang, J.; Qu, M.;Wang, M.; Zhang, M.; Yan, J.; and Mei, Q. 2015
-
-Line: Large-scale information network embedding. 
-
-In Proceedings of the 24th International Conference on World Wide Web
-
-**Node2Vec**
-
-
-
-Grover, A., and Leskovec, J. 2016. 
-
-node2vec: Scalable feature learning for networks. 
-
-In International Conference on Knowledge Discovery and Data Mining. ACM.
-
-
-
 **Common Neighbors (CNbrs for short)**
 
 最简单的基于局部信息的相似性方法。如果两个节点间的共同邻居结点越多，那么两者存在链接的可能性就越大。得分公式：
@@ -636,11 +566,22 @@ $\sum_{t\in N(u)\bigcap N(v)} \frac1{log|N(t)|}$
 
 $score(u,v) = |N(u)\bigcap N(v)|/ |N(u)\bigcup N(v)|$
 
+### ProxEmbed-异质图[2017AAAI]
 
 
-## HIN2Vec-异质结点和边-[2017]
+
+### D2AGE-[2018AAAI]
+
+
+
+##异质Heterogeneous
+
+###HIN2Vec-异质结点和边-[2017]
 
 Heterogeneous Information Network to Vector (HIN2Vec)
+
+Given a set of relationships specified in forms of meta-paths in an HIN, HIN2Vec carries out multiple prediction
+training tasks jointly based on a target set of relationships to learn latent vectors of nodes and meta-paths in the HIN
 
 ![1527164573047](C:/Users/LL/AppData/Local/Temp/1527164573047.png)
 
@@ -743,9 +684,43 @@ Know-Evolve，a novel deep evolutionary knowledge network that learns non-linear
 
 四元组$(e_s, r, e_o, t), 其中e^s, e^o \in \lbrace 1,..., n^e \rbrace(实体), e^s \neq e^o, r \in \lbrace 1, ..., n_r \}, r \in R^+$
 
+##外部信息
 
+###DKRL-基于文本+结构的embedding-[2016AAAI]
 
-## SSP-三元组+文本学习-[2017AAAI]
+R Xie，Z Liu，J Jia，... - 2016
+
+Representation Learning of Knowledge Graphs with Entity Descriptions
+
+AAAI
+
+考虑实体描述的知识表示学习模型(description-embodied knowledge representation learning, DKRL)提出在知识表示学习中考虑Freebase等知识库中提供的实体描述文本信息。在文本表示方面，DKRL考虑了2种模型：一种是CBOW,将文本中的词向量简单相加作为文本表示；一种是卷积神经网络(convolutional neural network,CNN),能够考虑文本中的词序信息。
+
+优势：除了能够提升实体表示的区分能力外，还能实现对新实体的表示。当新出现一个未曾在知识库中的实体时，DKRL可以根据它的简短描述产生它的实体表示，用于知识图谱补全等任务。
+
+Description-Embodied Knowledge Representation Learning
+
+每个头结点和尾结点有两个向量，分别是基于结构s的向量和基于文本描述d的向量
+
+energy function:
+
+$E = E_S + E_D,   E_D = E_{DD} + E_{DS}+E_{SD}$
+
+$E_{DD}=||h_d+r-t_d||, E_{DS}=||h_d+r-t_s||, E_{SD}=||h_s+r-t_d||$
+
+two encoders to build description-based representations
+
+**Continuous Bag-of-words Encoder**
+
+为每个实体选择文本描述中的top n个关键词(可以用TF-IDF进行排序)作为输入，将关键词的embeddings加起来作为实体的embedding，用来最小化$E_D$
+
+**Convolutional Neural Network Encoder**
+
+5层，实体的预处理后的文本描述作为输入，输出该实体基于文本描述的embedding.
+
+预处理：去停用词，标记文本描述中的短语，将它们作为词，每个词有一个word embedding，作为CNN的输入。
+
+###SSP-三元组+文本学习-[2017AAAI]
 
 Xiao H, Huang M, Meng L, et al. 
 
@@ -785,15 +760,13 @@ where E is the set of entities, and $D_e$ is the set of words in the description
 
 实验：知识图谱补全，实体预测
 
-
-
-## SaC2Vec-基于结构+内容的embedding-[2018]
+###SaC2Vec-基于结构+内容的embedding-[2018]
 
 Sambaran Bandyopadhyay, Harsh Kara, Anirban Biswas, M N Murty，2018.4.27
 
 SaC2Vec: Information Network Representation with Structure and Content
 
-
+![1529398827720](img/sac2vec.png)
 
 Sac2Vec(structure and content to vector), a network representation technique using structure and content. It is a multi-layered graph approach which uses a random walk to generate the node embedding.
 
@@ -867,13 +840,15 @@ $p(v_i^c|v_i) = 1- p(v_i^s|v_i)=\frac{w_i^{sc}}{w_i^{sc}+w_i^{cs}}$
 
 It means SaC2Vec is able to understand the bad quality of the content layer during the learning process and embeddings were learnt mostly from the structure layer.
 
+##边的表示
 
-
-## feature propagation-特征前向传播+edge2vec-[2018]
+###feature propagation-特征前向传播+edge2vec-[2018]
 
 We study feature propagation on graph, an inference process involved in graph representation learning tasks。however few works studied the convergence of feature propagation
 
+![1529398546629](img/edge2vec1.png)
 
+![1529398576716](img/edge2vec2.png)
 
 Xiang B, Liu Z, Zhou J, et al. 
 
@@ -881,7 +856,11 @@ Feature Propagation on Graph: A New Perspective to Graph Representation Learning
 
 [J]. arXiv preprint arXiv:1804.06111, 2018. 
 
+###Low-Rank Asymmetric Projections-[2017CIKM]
 
+Abu-El-Haija S, Perozzi B, Al-Rfou R. Learning edge representations via low-rank asymmetric projections[C]//Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017: 1787-1796. 
+
+![1529398328264](img/2017cikm.png)
 
 ## Word Embedding的稳定性的影响因素-[2018]
 
