@@ -1,3 +1,5 @@
+
+
 ##Survey
 
 ###Survey 1-[2018IEEE]
@@ -420,7 +422,11 @@ structure2vec, an effective and scalable approach for structured data representa
 
 Structured data, such as sequences, trees and graphs
 
+![1529835630755](img/structure1)
 
+![1529835661223](img/structure2.png)
+
+![1529835688198](img/structure3.png)
 
 ## GraphSAGE-有效生成新结点embedding-[2017]
 
@@ -583,7 +589,7 @@ Heterogeneous Information Network to Vector (HIN2Vec)
 Given a set of relationships specified in forms of meta-paths in an HIN, HIN2Vec carries out multiple prediction
 training tasks jointly based on a target set of relationships to learn latent vectors of nodes and meta-paths in the HIN
 
-![1527164573047](C:/Users/LL/AppData/Local/Temp/1527164573047.png)
+![1529674050206](img/hin2vec)
 
 P5
 

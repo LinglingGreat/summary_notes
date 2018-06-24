@@ -212,3 +212,37 @@ Develop a scoring algorithm for student-written short-answer responses, https://
 
 https://web.stanford.edu/class/cs224n/project.html
 
+## Dependency Parsing
+
+### Dependency Grammar and Dependency Structure
+
+Parse trees in NLP, analogous to those in compilers, are used to analyze the syntactic structure of sentences.
+
+There are two main types of structures used - constituency structures and dependency structures.
+
+Constituency Grammar uses phrase structure grammar to organize words into nested constituents.
+
+Dependency structure of sentences shows which words depend on (modify or are arguments of) which other words.
+
+![1529482908860](img/dependencytree)
+
+Figure 1: Dependency tree for the sentence "Bills on ports and immigration were submitted by Senator Brownback,
+Republican of Kansas"
+
+**1.1 Dependency Parsing**
+
+Dependency parsing is the task of analyzing the syntactic dependency structure of a given input sentence S. The output of a dependency parser is a dependency tree where the words of the input sentence are connected by typed dependency relations.
+
+there are two subproblems in dependency parsing：
+
+1. Learning: Given a training set D of sentences annotated with dependency graphs, induce a parsing model M that can be used to parse new sentences.
+2. Parsing: Given a parsing model M and a sentence S, derive the optimal dependency graph D for S according to M.
+
+**1.2 Transition-Based Dependency Parsing**
+
+Transition-based dependency parsing relies on a state machine which defines the possible transitions to create the mapping from the input sentence to the dependency tree.
+
+**1.3 Greedy Deterministic Transition-Based Parsing**
+
+**1.4 Neural Dependency Parsing**
+
