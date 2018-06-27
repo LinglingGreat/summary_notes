@@ -1,5 +1,15 @@
 
 
+
+
+
+
+
+
+
+
+
+
 ##Survey
 
 ###Survey 1-[2018IEEE]
@@ -181,7 +191,17 @@ GNN，MPNNs
 
 1. **Applications of subgraph embeddings**
 
+### Survey 3-[2017IEEE]
 
+Wang Q, Mao Z, Wang B, et al. Knowledge graph embedding: A survey of approaches and applications[J]. IEEE Transactions on Knowledge and Data Engineering, 2017, 29(12): 2724-2743. 
+
+Summary of Translational Distance Models
+
+![1530086707322](img/survey31.png)
+
+![1530086745714](img/survey32.png)
+
+![1530086781289](img/survey33.png)
 
 ## DeepWalk-随机游走+Skip-Gram-[2014SIGKDD]
 
@@ -572,13 +592,41 @@ $\sum_{t\in N(u)\bigcap N(v)} \frac1{log|N(t)|}$
 
 $score(u,v) = |N(u)\bigcap N(v)|/ |N(u)\bigcup N(v)|$
 
-### ProxEmbed-异质图[2017AAAI]
+### ProxEmbed-[2017AAAI]
 
+Liu Z, Zheng V W, Zhao Z, et al. Semantic Proximity Search on Heterogeneous Graph by Proximity Embedding[C]//AAAI. 2017: 154-160. 
 
+任务：语意近似度搜索，比如给定近似度类型如校友，以及某种类型如用户的查询结点，目的是输出同样类型的其它结点的排名列表
 
-### D2AGE-[2018AAAI]
+核心问题：如何衡量异质图的近似度
 
+we introduce a new concept of proximity embedding, which directly embeds the network structure between two possibly distant nodes.We also design our proximity embedding, so as to flexibly support both symmetric and asymmetric proximities. Based on the proximity embedding, we can easily estimate the proximity score between two nodes and enable search on the graph.
 
+![1530059899114](img/proxembed1.png)
+
+![1530060045795](img/proxembed2.png)
+
+![1530060253065](img/proxembed3.png)
+
+![1530060289508](img/proxembed4.png)
+
+### [D2AGE]-[2018AAAI]
+
+Liu Z, Zheng V W, Zhao Z, et al. Distance-aware dag embedding for proximity search on heterogeneous graphs[C]. AAAI, 2018. 
+
+https://github.com/shuaiOKshuai
+
+we explore a more expressive DAG (directed acyclic graph有向无环图) data structure for modeling the connections between two nodes. Particularly, we are interested in learning a representation for the DAGs to encode the proximity between two nodes. We face two challenges to use DAGs, including how to efficiently generate DAGs and how to effectively learn DAG embedding for proximity search. We find distance-awareness as important for proximity search and the key to solve the above challenges. Thus we develop a novel Distance-aware DAG Embedding (D2AGE) model.
+
+![1530062569852](img/d2age1.png)
+
+![1530062709287](img/d2age2.png)
+
+![1530062782052](img/d2age3.png)
+
+![1530062912029](img/d2age4.png)
+
+![1530063046818](img/d2age5.png)
 
 ##异质Heterogeneous
 
@@ -674,9 +722,25 @@ $logP(y_j =k|x,y_i, a_i, a_j;\theta) = \frac{exp(U_X[k,:]^T v_x + U_Y^{d_j}[k,:]
 
 2.选择一个y, 选择$s_y$的两条边，根据$logP(x_t |y,x_s, a_s, a_t;\theta^{(t-1)})$ 计算出$\Delta \theta$, 更新$\theta^{(t)}=\theta^{(t-1)}+(1-\alpha)\lambda\Delta\theta$
 
+## 时间
 
+### Time-Aware-[2016]
 
-## Know-Evolve-[2017]
+Jiang T, Liu T, Ge T, et al. Towards Time-Aware Knowledge Graph Completion[C]//Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers. 2016: 1715-1724. 
+
+we present a novel time-aware knowledge graph completion model that is able to predict links in a KG using both the existing facts and the temporal information of the facts. To incorporate the happening time of facts, we propose a time-aware KG embedding model using temporal order information among facts. To incorporate the valid time of facts, we propose a joint time-aware inference model based on Integer Linear Programming (ILP) using temporal consistency information as constraints. We further integrate two models to make full use of global temporal information.
+
+![1530063700300](img/tae1.png)
+
+![1530063758604](img/tae2.png)
+
+![1530063789591](img/tae3.png)
+
+![1530063815783](img/tae4.png)
+
+![1530063841928](img/tae5.png)
+
+###Know-Evolve-[2017]
 
 Trivedi R, Dai H, Wang Y, et al. 
 
@@ -689,6 +753,10 @@ Know-evolve: Deep temporal reasoning for dynamic knowledge graphs
 Know-Evolve，a novel deep evolutionary knowledge network that learns non-linearly evolving entity representations over time.
 
 四元组$(e_s, r, e_o, t), 其中e^s, e^o \in \lbrace 1,..., n^e \rbrace(实体), e^s \neq e^o, r \in \lbrace 1, ..., n_r \}, r \in R^+$
+
+![1530058161221](img/knowevolve1.png)
+
+![1530058197895](img/knowevolve2.png)
 
 ##外部信息
 
@@ -868,6 +936,54 @@ Abu-El-Haija S, Perozzi B, Al-Rfou R. Learning edge representations via low-rank
 
 ![1529398328264](img/2017cikm.png)
 
+###Graph Embedding through Attention-[2017]
+
+Abu-El-Haija S, Perozzi B, Al-Rfou R, et al. Watch your step: Learning graph embeddings through attention[J]. arXiv preprint arXiv:1710.09599, 2017. 
+
+In this paper, we replace random walk hyperparameters with trainable parameters that we automatically learn via backpropagation. In particular, we learn a novel attention model on the power series of the transition matrix, which guides the random walk to optimize an upstream objective.
+
+A general framework:
+
+![1530057647469](img/attention1.png)
+
+main objective:
+
+![1530057690921](img/attention2.png)
+
+parametrized conditional expectation:
+
+![1530057745948](img/attention3.png)
+
+Softmax Attention:
+
+![1530057796017](img/attention4.png)
+
+$\lambda$ Geometric Decay Attention:
+
+![1530057841532](img/attention5.png)
+
+Training objective:
+
+![1530057877738](img/attention6.png)
+
+## 关系relation
+
+
+
+
+
+## 推理
+
+###多关系嵌入的类比推理-[2017ICML]
+
+Liu H, Wu Y, Yang Y. Analogical inference for multi-relational embeddings[J]. arXiv preprint arXiv:1705.02426, 2017. 
+
+https://github.com/quark0/ANALOGY
+
+We presented a novel framework for explicitly modeling analogical structures in multi-relational embedding, along with a differentiable objective function and a linear-time inference algorithm for large-scale embedding of knowledge graphs.
+
+![1530081106020](img/analogical1.png)
+
 ## Word Embedding的稳定性的影响因素-[2018]
 
 Wendlandt L, Kummerfeld J K, Mihalcea R. 
@@ -935,7 +1051,65 @@ In order to use the most stable embedding spaces for future tasks, we recommend 
 using GloVe or learning a good curriculum for word2vec training data. We also recommend
 using in-domain embeddings whenever possible。
 
+##图嵌入+简单约束-[2018]
 
+Ding B, Wang Q, Wang B, et al. Improving Knowledge Graph Embedding Using Simple Constraints[J]. arXiv preprint arXiv:1805.02408, 2018. 
+
+https://github.com/iieir-km/ComplEx-NNE_AER
+
+we combine together the basic embedding model of ComplEx, the non-negativity constraints on entity representations, and the approximate entailment constraints over relation representations.The overall model is presented as follows
+
+![1530085882205](img/sc1)
+
+the first term of the objective function is a typical logistic loss, which enforces triples to have scores close to their labels. The second term is the sum of slack variables in the approximate entailment constraints, with a penalty coefficient μ ≥ 0. The motivation
+is, although we allow slackness in those constraints we hope the total slackness to be small, so that the constraints can be better satisfied. The last term is L2 regularization to avoid over-fitting, and η ≥ 0 is the regularization coefficient.
+
+##GAKE-[2016coling]
+
+Feng J, Huang M, Yang Y. GAKE: Graph aware knowledge embedding[C]//Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers. 2016: 641-651. 
+
+https://github.com/JuneFeng/GAKE
+
+in reality, triples are connected to each other and the whole knowledge base could be regarded as a directed graph consisting of vertices (i.e., entities) and directed edges (i.e., relations).we present a novel method to learn the representations of knowledge by utilizing **graph context**(Neighbor context, Edge context, Path context)
+
+![1530101351372](img/gake1.png)
+
+s = (t, k) to represent a subject (i.e., a vertex or an edge) of the knowledge graph
+G, where t indicates subject type, and k is the index of the corresponding vertex or edge. Specifically, we let t = 0 to denote a vertex and let t = 1 to denote an edge. We use a set S = {$s_i$} to represent all subjects in G.
+
+![1530102939306](img/gake2.png)
+
+Neighbor context
+
+Formally, when si is an entity, its neighbor context cN(si) is a pair of subjects (e, v), where v is an another vertex in G and e is a directed edge links si and v. In the case of si is a relation, its neighbor context cN(si) is a pair (v, v'), where v and v' are two vertices connected by si. One thing worth to notice is that neighbor context is equivalent to using triplets relevant to the given subject si.
+
+The objective function of taking neighbor context into consideration is to maximize the log-likelihood of all subjects given by their neighbor contexts. Based on Eq. 1, we have
+
+![1530103068113](img/gake3.png)
+
+Path context: random walk
+
+![1530103113541](img/gake4.png)
+
+Edge context
+
+When si is a vertex, cE(si) is a set of edges of si, while when si is an edge, cE(si) consists of all vertices connected with si.
+
+![1530103166162](img/gake5.png)
+
+Attention Mechanism
+
+The basic idea of the attention mechanism is using an attention model a(si) to represent how subject si selectively focuses on representing another subject sj when si is a part of sj ’s context
+
+![1530103249461](img/gake6.png)
+
+![1530103278663](img/gake7.png)
+
+To utilize these three types of context, we combine them by jointly maximizing the objective functions
+
+![1530103312536](img/gake8.png)
+
+λ represent the prestige of neighbor context, path context and edge context separately.
 
 ## Trans系列
 
