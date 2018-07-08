@@ -1129,6 +1129,8 @@ $L=\sum_{(h,r,t)\in S}\sum_{(h',r',t')\in S^-} max(0, f_r(h,t) + \gamma - f_{r'}
 
 Translating embeddings for modeling multi-relational data
 
+![1530544472887](img/transe.png)
+
 ###TransH模型
 
 为了解决TransE模型在处理1-N，N-1，N-N复杂关系时的局限性，TransH模型提出让一个实体在不同的关系下拥有不同的表示。
@@ -1144,6 +1146,8 @@ $l_{t_r} = l_t - w_r^T l_t w_r$
 由于关系r可能存在无限个超平面，TransH简单地令$l_r$ 与$w_r$ 近似正交来选取某一个超平面。
 
 Knowledge graph embedding by translating on hyperplanes
+
+![1530544500592](img/transh.png)
 
 ###TransR / CTransR模型
 
@@ -1162,6 +1166,8 @@ CTransR模型通过把关系r对应的实体对的向量差值$l_h-l_t$ 进行�
 $f_r(h,t) = |l_{h_r}+l_{r_c}-l_{t_r}|_{L1/L2}$
 
 Learning entity and relation embeddings for knowledge graph completion
+
+![1530544523811](img/transr.png)
 
 ###TransD模型
 
