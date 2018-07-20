@@ -10,6 +10,10 @@
 
 
 
+
+
+
+
 ##Survey
 
 ###Survey 1-[2018IEEE]
@@ -1230,6 +1234,18 @@ TransNet 假设头结点表示向量加上关系表示向量等于尾节点表�
 
  Tu C C, Zhang Z Y, Liu Z Y, et al. TransNet: translation-based network representation learning for social relation extraction. In: Proceedings of International Joint Conference on Artificial Intelligence (IJCAI), Melbourne, 2017
 
+### TransF
+
+Do K, Tran T, Venkatesh S. Knowledge Graph Embedding with Multiple Relation Projections[J]. arXiv preprint arXiv:1801.08641, 2018. 
+
+![1531058207613](img/transf.png)
+
+![1531058272193](img/transf2.png)
+
+![1531058302493](img/transf3.png)
+
+![1531058323178](img/transf4.png)
+
 
 
 ## KG2E模型
@@ -1240,5 +1256,36 @@ Learning to represent knowledge graphs with Gaussian embedding
 
 
 
+##Event Embedding
 
+Ding X, Zhang Y, Liu T, et al. Knowledge-driven event embedding for stock prediction[C]//Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers. 2016: 2133-2142. 
+
+![1531195323381](img/event1.png)
+
+![1531195346917](img/event2.png)
+
+event tuples E = (A, P,O), where P is the action or predicate, A is the actor or subject and O is the object on which
+the action is performed.
+
+The inputs of the neural tensor network (NTN) are the word embeddings of A, P and O, and the outputs are event embeddings. We learn an initial word representation of d-dimensions (d = 100) from a large-scale financial news corpus, using the skip-gram algorithm (Mikolov et al., 2013).
+
+![1531195454792](img/event3.png)
+
+![1531195542519](img/event4.png)
+
+![1531195687509](img/event5.png)
+
+![1531195865166](img/event6.png)
+
+![1531195891869](img/event7.png)
+
+![1531195920450](img/event8.png)
+
+## 异常检测
+
+###属性网络的异常
+
+Liang J, Jacobs P, Sun J, et al. Semi-supervised embedding in attributed networks with outliers[C]//Proceedings of the 2018 SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics, 2018: 153-161. 
+
+![1531200906808](img/attribute.png)
 
