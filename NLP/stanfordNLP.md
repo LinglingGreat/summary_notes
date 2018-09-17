@@ -46,7 +46,7 @@ Facebook AI Research
 
 Continuous Bag of Words Model (CBOW)
 
-Skip-Gram Model
+Skip-Gram Model：CBOW给定上下文，预测中间词，skip-gram相反
 
 Negative Sampling
 

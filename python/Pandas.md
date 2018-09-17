@@ -162,3 +162,60 @@ NaN统一放到排序末尾
 适用于Series和DataFrame类型  
 .cov() 计算协方差矩阵  
 .corr() 计算相关系数矩阵, Pearson、Spearman、Kendall等系数  
+
+groupby()函数：
+
+df.groupby('key1').mean() 
+
+df.groupby(['key1', 'key2']).mean() 
+
+
+
+**遍历dataframe**
+
+```python
+import pandas as pd
+
+dict=[[1,2,3,4,5,6],[2,3,4,5,6,7],[3,4,5,6,7,8],[4,5,6,7,8,9],[5,6,7,8,9,10]]
+data=pd.DataFrame(dict)
+print(data)
+for indexs in data.index:
+    print(data.loc[indexs].values[0:-1])
+    
+# 输出
+   0  1  2  3  4   5
+0  1  2  3  4  5   6
+1  2  3  4  5  6   7
+2  3  4  5  6  7   8
+3  4  5  6  7  8   9
+4  5  6  7  8  9  10
+[1 2 3 4 5]
+[2 3 4 5 6]
+[3 4 5 6 7]
+[4 5 6 7 8]
+[5 6 7 8 9]
+```
+
+```python
+for index, row in df.iterrows():
+    print row["c1"], row["c2"]
+```
+
+```python
+for row in df.itertuples(index=True, name='Pandas'):
+    print getattr(row, "c1"), getattr(row, "c2")
+```
+
+```python
+for i in range(0, len(df)):
+    print df.iloc[i]['c1'], df.iloc[i]['c2']
+```
+
+
+
+**dataframe转成dict**
+
+`DataFrame.``to_dict`(*orient='dict'*, *into=<class 'dict'>*)[[source\]](http://github.com/pandas-dev/pandas/blob/v0.23.4/pandas/core/frame.py#L987-L1102) 
+
+http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.to_dict.html
+
