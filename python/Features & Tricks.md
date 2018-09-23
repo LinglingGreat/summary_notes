@@ -243,22 +243,22 @@ KeyError: 'a'
 >>> print json.dumps(root, sort_keys=True, indent=4, separators=(',', ': '))
 {
     "menu": {
-        "id": "file",
-        "menuitems": {
-            "close": {
-                "onclick": "close();",
-                "value": "Close"
-            },
-            "new": {
-                "onclick": "new();",
-                "value": "New"
-            },
-            "open": {
-                "onclick": "open();",
-                "value": "Open"
-            }
-        },
-        "value": "File"
+    ​    "id": "file",
+    ​    "menuitems": {
+    ​        "close": {
+    ​            "onclick": "close();",
+    ​            "value": "Close"
+    ​        },
+    ​        "new": {
+    ​            "onclick": "new();",
+    ​            "value": "New"
+    ​        },
+    ​        "open": {
+    ​            "onclick": "open();",
+    ​            "value": "Open"
+    ​        }
+    ​    },
+    ​    "value": "File"
     }
 }
 (See https://gist.github.com/hrldcpr/2012250 for more on this.)
@@ -504,3 +504,95 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ## 26.Use C-Style Braces Instead of Indentation to Denote Scopes
 >>> from __future__ import braces
+
+## 中间结果尽量使用imap/ifilter代替map/filter
+
+```
+##不推荐
+reduce(rf, filter(ff, map(mf, a_list)))
+
+##推荐
+from itertools import ifilter, imap
+reduce(rf, ifilter(ff, imap(mf, a_list)))
+*lazy evaluation 会带来更高的内存使用效率，特别是当处理大数据操作的时候。
+```
+
+## 使用any/all函数
+
+```
+##不推荐
+found = False
+for item in a_list:
+    if condition(item):
+        found = True
+        break
+if found:
+    # do something if found...  
+
+##推荐
+if any(condition(item) for item in a_list):
+    # do something if found...
+```
+
+## 属性(property)
+
+```
+##不推荐
+class Clock(object):
+    def __init__(self):
+        self.__hour = 1
+    def setHour(self, hour):
+        if 25 &amp;gt; hour &amp;gt; 0: self.__hour = hour
+        else: raise BadHourException
+    def getHour(self):
+        return self.__hour
+
+##推荐
+class Clock(object):
+    def __init__(self):
+        self.__hour = 1
+    def __setHour(self, hour):
+        if 25 &amp;gt; hour &amp;gt; 0: self.__hour = hour
+        else: raise BadHourException
+    def __getHour(self):
+        return self.__hour
+    hour = property(__getHour, __setHour)
+```
+
+## 使用 with 忽视异常(仅限Python 3)
+
+```
+##不推荐
+try:
+    os.remove("somefile.txt")
+except OSError:
+    pass
+
+##推荐
+from contextlib import ignored  # Python 3 only
+
+with ignored(OSError):
+    os.remove("somefile.txt")
+```
+
+## 使用 with 处理加锁
+
+```
+##不推荐
+import threading
+lock = threading.Lock()
+
+lock.acquire()
+try:
+    # 互斥操作...
+finally:
+    lock.release()
+
+##推荐
+import threading
+lock = threading.Lock()
+
+with lock:
+    # 互斥操作...
+```
+

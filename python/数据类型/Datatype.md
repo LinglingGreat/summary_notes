@@ -12,6 +12,61 @@
 
 交集：a and b
 
+列表推导-嵌套
+
+```
+##不推荐
+for sub_list in nested_list:
+    if list_condition(sub_list):
+        for item in sub_list:
+            if item_condition(item):
+                # do something...  
+##推荐
+gen = (item for sl in nested_list if list_condition(sl) \
+            for item in sl if item_condition(item))
+for item in gen:
+    # do something...
+```
+
+循环嵌套
+
+```
+##不推荐
+for x in x_list:
+    for y in y_list:
+        for z in z_list:
+            # do something for x &amp;amp; y  
+
+##推荐
+from itertools import product
+for x, y, z in product(x_list, y_list, z_list):
+    # do something for x, y, z
+```
+
+尽量使用生成器代替列表
+
+```
+##不推荐
+def my_range(n):
+    i = 0
+    result = []
+    while i &amp;lt; n:
+        result.append(fn(i))
+        i += 1
+    return result  #  返回列表
+
+##推荐
+def my_range(n):
+    i = 0
+    result = []
+    while i &amp;lt; n:
+        yield fn(i)  #  使用生成器代替列表
+        i += 1
+*尽量用生成器代替列表，除非必须用到列表特有的函数。
+```
+
+
+
 ## 字符串处理方法
 '+' 连接  
 '*' 重复  
@@ -87,7 +142,51 @@ for <var&gt; in <string&gt; 字符串迭代
 * pop(key):val 删除并返回字典中key对应的值
 * update(字典) 将字典中的键值添加到字典中
 
+字典键值列表
 
+```
+##不推荐
+for key in my_dict.keys():
+    #  my_dict[key] ...  
+
+##推荐
+for key in my_dict:
+    #  my_dict[key] ...
+
+# 只有当循环中需要更改key值的情况下，我们需要使用 my_dict.keys()
+# 生成静态的键值列表。
+```
+
+字典键值判断
+
+```
+##不推荐
+if my_dict.has_key(key):
+    # ...do something with d[key]  
+
+##推荐
+if key in my_dict:
+    # ...do something with d[key]
+```
+
+字典 get 和 setdefault 方法
+
+```
+##不推荐
+navs = {}
+for (portfolio, equity, position) in data:
+    if portfolio not in navs:
+            navs[portfolio] = 0
+    navs[portfolio] += position * prices[equity]
+##推荐
+navs = {}
+for (portfolio, equity, position) in data:
+    # 使用 get 方法
+    navs[portfolio] = navs.get(portfolio, 0) + position * prices[equity]
+    # 或者使用 setdefault 方法
+    navs.setdefault(portfolio, 0)
+    navs[portfolio] += position * prices[equity]
+```
 
 
 ## 集合
