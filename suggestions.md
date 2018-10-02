@@ -1,3 +1,17 @@
+先尝试，不需要先把所有理论搞懂
+
+![1538313166327](machine_learning/img/1538313166327.png)
+
+![1538313245548](machine_learning/img/1538313245548.png)
+
+![1538313359661](machine_learning/img/1538313359661.png)
+
+![1538313393858](machine_learning/img/1538313393858.png)
+
+![1538313451103](machine_learning/img/1538313451103.png)
+
+
+
 ###AI
 
 **所需要的数学理论**
