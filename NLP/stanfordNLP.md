@@ -1,3 +1,72 @@
+##资料
+
+课程主页： https://web.stanford.edu/class/cs224n /
+
+中文笔记： http://www.hankcs.com/nlp/cs224n-introduction-to-nlp-and-deep-learning.html
+
+视频：https://www.bilibili.com/video/av30326868/?spm_id_from=333
+
+http://www.mooc.ai/course/494
+
+学习笔记：http://www.hankcs.com/nlp/cs224n-introduction-to-nlp-and-deep-learning.html
+
+实验环境推荐使用Linux或者Mac系统，以下环境搭建方法皆适用:
+
+· Docker环境配置： https://github.com/ufoym/deepo
+· 本地环境配置： https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md
+
+训练营： https://github.com/learning511/cs224n-learning-camp
+
+**重要的一些资源：**
+
+深度学习斯坦福教程： 
+
+<http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B>
+
+廖雪峰python3教程： 
+
+<https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000>
+
+github教程： 
+
+<https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000>
+
+莫烦机器学习教程： <http://morvanzhou.github.io/tutorials> /
+
+深度学习经典论文： <https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap>
+
+斯坦福cs229代码(机器学习算法python徒手实现)： <https://github.com/nsoojin/coursera-ml-py>
+
+博客： <https://blog.csdn.net/dukuku5038/article/details/82253966>
+
+==数学工具==
+
+**斯坦福资料**：
+
+- 线性代数（链接地址： <http://web.stanford.edu/class/cs224n/readings/cs229-linalg.pdf> ）
+- 概率论（链接地址： <http://101.96.10.44/web.stanford.edu/class/cs224n/readings/cs229-prob.pdf> ）
+- 凸函数优化（<http://101.96.10.43/web.stanford.edu/class/cs224n/readings/cs229-cvxopt.pdf> ）
+- 随机梯度下降算法（链接地址： <http://cs231n.github.io/optimization-1> /）
+
+**中文资料**：
+
+- 机器学习中的数学基本知识（链接地址： <https://www.cnblogs.com/steven-yang/p/6348112.html> ）
+- 统计学习方法（链接地址： <http://vdisk.weibo.com/s/vfFpMc1YgPOr> ）
+- 大学数学课本（从故纸堆里翻出来^_^）
+
+==编程工具==
+
+**斯坦福资料**：
+
+- Python复习（链接地址： <http://web.stanford.edu/class/cs224n/lectures/python-review.pdf> ）
+- TensorFlow教程（链接地址： <https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow> ）
+
+**中文资料**：
+
+- 廖雪峰python3教程（链接地址： 
+- <https://www.liaoxuefeng.com/article/001432619295115c918a094d8954bd493037b03d27bf9a9000> ）
+- 莫烦TensorFlow教程（链接地址： <https://morvanzhou.github.io/tutorials/machine-learning/tensorflow> /）
+
 ##paper
 
 1.A Simple but Tough-to-beat Baseline for Sentence Embeddings
@@ -40,7 +109,32 @@ Facebook AI Research
 ● fastText takes seconds, instead of days
 ● Can learn vector representations of words in different languages (with performance better than word2vec!)
 
+## 概述
 
+NLP levels
+
+![1540300272862](img/nlplevels.png)
+
+作为输入一共有两个来源，语音与文本。所以第一级是语音识别和OCR或分词（事实上，跳过分词虽然理所当然地不能做句法分析，但字符级也可以直接做不少应用）。接下来是形态学，援引《统计自然语言处理》中的定义：
+
+> 形态学（morphology）：形态学（又称“词汇形态学”或“词法”）是语言学的一个分支，研究词的内部结构，包括屈折变化和构词法两个部分。由于词具有语音特征、句法特征和语义特征，形态学处于音位学、句法学和语义学的结合部位，所以形态学是每个语言学家都要关注的一门学科［Matthews,2000］。
+
+下面的是句法分析和语义分析，最后面的在中文中似乎翻译做“对话分析”，需要根据上文语境理解下文。
+
+**自然语言处理应用**
+
+一个小子集，从简单到复杂有：
+
+- 拼写检查、关键词检索……
+- 文本挖掘（产品价格、日期、时间、地点、人名、公司名）
+- 文本分类
+- 机器翻译
+- 客服系统
+- 复杂对话系统
+
+在工业界从搜索到广告投放、自动\辅助翻译、情感舆情分析、语音识别、聊天机器人\管家等等五花八门。
+
+**深度学习是表示学习的一部分，用来学习原始输入的多层特征表示**
 
 ## Iteration Based Methods - Word2vec
 
