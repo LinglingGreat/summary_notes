@@ -138,13 +138,19 @@ NLP levels
 
 ## Iteration Based Methods - Word2vec
 
-Continuous Bag of Words Model (CBOW)
+**Two algorithms**
 
-Skip-Gram Model：CBOW给定上下文，预测中间词，skip-gram相反
+Skip-grams (SG)
+Predict context words given target (position independent)
 
-Negative Sampling
+Continuous Bag of Words (CBOW)
+Predict target word from bag-of-words context
 
-Hierarchical Softmax
+**Two (moderately efficient) training methods**
+
+Hierarchical softmax
+
+Negative sampling
 
 **hierarchical softmax tends to be better for infrequent words, while negative sampling**
 **works better for frequent words and lower dimensional vectors.**
