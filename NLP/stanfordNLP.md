@@ -17,6 +17,10 @@ http://www.mooc.ai/course/494
 
 训练营： https://github.com/learning511/cs224n-learning-camp
 
+清华大学NLP实验室总结的机器阅读论文和数据：
+
+https://github.com/thunlp/RCPapers?utm_source=wechat_session&utm_medium=social&utm_oi=804719261191909376  
+
 **重要的一些资源：**
 
 深度学习斯坦福教程： 
@@ -136,7 +140,7 @@ NLP levels
 
 **深度学习是表示学习的一部分，用来学习原始输入的多层特征表示**
 
-## Iteration Based Methods - Word2vec
+## Iteration Based Methods - 词向量表示Word2vec
 
 **Two algorithms**
 
@@ -155,7 +159,135 @@ Negative sampling
 **hierarchical softmax tends to be better for infrequent words, while negative sampling**
 **works better for frequent words and lower dimensional vectors.**
 
-## Global Vectors for Word Representation (GloVe)
+主要思路：
+
+遍历整个语料库中的每个词
+
+预测每个词的上下文：$p(o|c)=\frac{exp(u_o^Tv_c)}{\sum_{w=1}^v exp(u_w^Tv_c)}$
+
+然后在每个窗口中计算梯度做SGD
+
+**word2vec存在的问题**
+
+1. word2vec在计算梯度时会遇到梯度稀疏的问题
+
+![1540898521791](img/1540898521791.png)
+
+可以考虑每次只更新那些真实出现的单词的向量。
+
+解决方案有两种：一种是需要有一个稀疏矩阵更新操作，每次只更新向量矩阵的某些列。第二种方法是为单词建立到词向量的hash映射。
+
+If you have millions of word vectors and do distributed computing, it is important to not have to send gigantic updates around!
+
+2. word2vec的归一化因子部分计算复杂度太高
+
+解决方法：使用负采样（negative sampling）实现skip-gram。具体做法是，对每个正例（中央词语及上下文中的一个词语）采样几个负例（中央词语和其他随机词语），训练binary logistic regression（也就是二分类器）。
+
+目标函数：
+
+$J_t(θ)=logσ(u^T_ov_c)+∑_{i=1}^kE_{j∼P(w)}[logσ(−u^T_jv_c)]$
+
+这里t是某个窗口，k是采样个数，P(w)是一个unigram分布
+
+这个目标函数就是要最大化中央词与上下文的相关概率，最小化与其他词语的概率。
+
+$P(w)=U(w)^{3/4}/Z$
+
+这样使得不那么常见的单词被采样的次数更多。
+
+
+
+word2vec将窗口视作训练单位，每个窗口或者几个窗口都要进行一次参数更新。要知道，很多词串出现的频次是很高的。能不能遍历一遍语料，迅速得到结果呢？
+
+早在word2vec之前，就已经出现了很多得到词向量的方法，这些方法是基于统计共现矩阵的方法。如果在窗口级别上统计词性和语义共现，可以得到相似的词。如果在文档级别上统计，则会得到相似的文档（潜在语义分析LSA）。
+
+**基于窗口的共现矩阵**
+
+在某个窗口范围内，两个词共同出现的次数组成的矩阵。
+
+根据这个矩阵，的确可以得到简单的共现向量。但是它存在非常多的局限性：
+
+- 当出现新词的时候，以前的旧向量连维度都得改变
+- 高纬度（词表大小）
+- 高稀疏性
+
+**解决办法：低维向量**
+
+用25到1000的低维稠密向量来储存重要信息。如何降维呢？
+
+方法：SVD，但是类似于the,he,has这样的词频次太高
+
+改进
+
+- 限制高频词的频次，或者干脆停用词
+- 根据与中央词的距离衰减词频权重
+- 用皮尔逊相关系数代替词频
+
+SVD的问题
+
+- 计算复杂度高：对n×m的矩阵是$O(mn^2)$
+- 不方便处理新词或新文档
+- 与其他DL模型训练套路不同
+
+**Count based vs direct prediction**
+
+这些基于计数的方法在中小规模语料训练很快，有效地利用了统计信息。但用途受限于捕捉词语相似度，也无法拓展到大规模语料。
+
+而NNLM, HLBL, RNN, Skip-gram/CBOW这类进行预测的模型必须遍历所有的窗口训练，也无法有效利用单词的全局统计信息。但它们显著地提高了上级NLP任务，其捕捉的不仅限于词语相似度。
+
+![1540906029954](img/1540906029954.png)
+
+综合两者优势：GloVe
+
+##高级词向量表示Global Vectors for Word Representation (GloVe)
+
+这种模型的目标函数是：
+
+$J =\frac12\sum_{i,j=1}^W f(P_{ij})(\mu_i^Tv_j - logP_{ij})^2$
+
+这里的Pij是两个词共现的频次，f是一个max函数：
+
+![1540906170932](img/1540906170932.png)
+
+优点是训练快，可以拓展到大规模语料，也适用于小规模语料和小向量。
+
+这里面有两个向量u和v，它们都捕捉了共现信息，怎么处理呢？试验证明，最佳方案是简单地加起来：
+
+$X_{final}=U+V$
+
+相对于word2vec只关注窗口内的共现，GloVe这个命名也说明这是全局的（我觉得word2vec在全部语料上取窗口，也不是那么地local，特别是负采样）。
+
+**评测方法**
+
+有两种方法：Intrinsic（内部） vs extrinsic（外部）
+
+Intrinsic：专门设计单独的试验，由人工标注词语或句子相似度，与模型结果对比。好处是计算速度快，但不知道对实际应用有无帮助。有人花了几年时间提高了在某个数据集上的分数，当将其词向量用于真实任务时并没有多少提高效果。
+
+Extrinsic：通过对外部实际应用的效果提升来体现。耗时较长，不能排除是否是新的词向量与旧系统的某种契合度产生。需要至少两个subsystems同时证明。这类评测中，往往会用pre-train的向量在外部任务的语料上retrain。
+
+**Intrinsic word vector evaluation**
+
+也就是词向量类推，或说“A对于B来讲就相当于C对于哪个词？”。这可以通过余弦夹角得到：
+
+a:b  ::  c:?                $d=argmax_i\frac{(x_b-x_a+x_c)^Tx_i}{||x_b-x_a+x_c||}$
+
+这种方法可视化出来，会发现这些类推的向量都是近似平行的
+
+word2vec还可以做语法上的类比，比如slow——slower——slowest这种比较级形式
+
+实验中，GloVe的效果显著地更好。另外，高纬度并不一定好。而数据量越多越好。
+
+**调参**
+
+窗口是否对称（还是只考虑前面的单词），向量维度，窗口大小
+
+大约300维，窗口大小8的对称窗口效果挺好的，考虑到成本。
+
+对GloVe来讲，迭代次数越多越小，效果很稳定
+
+适合word vector的任务，比如单词分类。有些不太适合的任务，比如情感分析。
+
+消歧，中心思想是通过对上下文的聚类分门别类地重新训练。
 
 we have looked at two main classes of methods to find word embeddings. 
 
@@ -311,6 +443,10 @@ Develop a scoring algorithm for student-written short-answer responses, https://
 - [Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 https://web.stanford.edu/class/cs224n/project.html
+
+## Word Window分类与神经网络
+
+
 
 ## Dependency Parsing
 
