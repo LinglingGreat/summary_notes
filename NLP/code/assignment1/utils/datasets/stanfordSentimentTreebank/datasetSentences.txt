@@ -101,7 +101,7 @@ sentence_index	sentence
 100	While McFarlane 's animation lifts the film firmly above the level of other coming-of-age films ... it 's also so jarring that it 's hard to get back into the boys ' story .
 101	If nothing else , this movie introduces a promising , unusual kind of psychological horror .
 102	In a normal screen process , these bromides would be barely enough to sustain an interstitial program on the Discovery Channel .
-103	But in Imax 3-D , the clichÃ©s disappear into the vertiginous perspectives opened up by the photography .
+103	But in Imax 3-D , the clichés disappear into the vertiginous perspectives opened up by the photography .
 104	Writer-director Burger imaginatively fans the embers of a dormant national grief and curiosity that has calcified into chronic cynicism and fear .
 105	... a roller-coaster ride of a movie
 106	I enjoyed Time of Favor while I was watching it , but I was surprised at how quickly it faded from my memory .
@@ -255,7 +255,7 @@ sentence_index	sentence
 254	The kooky yet shadowy vision Clooney sustains throughout is daring , inventive and impressive .
 255	A triumph of art direction over narrative , but what art direction !
 256	Behan himself knew how to spin a tale and one ca n't help but think he 'd appreciate this attempt to turn his life into art .
-257	JirÃ­ Hubac 's script is a gem .
+257	Jirí Hubac 's script is a gem .
 258	His characters are engaging , intimate and the dialogue is realistic and greatly moving .
 259	The scope of the Silberstein family is large and we grow attached to their lives , full of strength , warmth and vitality . .
 260	Moore 's complex and important film is also , believe it or not , immensely entertaining , a David and Goliath story that 's still very much playing itself out .
@@ -291,7 +291,7 @@ sentence_index	sentence
 290	It 's solid and affecting and exactly as thought-provoking as it should be .
 291	This is such a dazzlingly self-assured directorial debut that it 's hard to know what to praise first .
 292	Parker holds true to Wilde 's own vision of a pure comedy with absolutely no meaning , and no desire to be anything but a polished , sophisticated entertainment that is in love with its own cleverness .
-293	MÃ¼nch 's genuine insight makes the film 's occasional overindulgence forgivable .
+293	Münch 's genuine insight makes the film 's occasional overindulgence forgivable .
 294	Thankfully , the film , which skirts that rapidly deteriorating line between fantasy and reality ... takes a tongue-in-cheek attitude even as it pushes the Croc Hunter agenda .
 295	Ultimately , the message of Trouble Every Day seems to be that all sexual desire disrupts life 's stasis .
 296	If you 're like me , a sucker for a good old fashion romance and someone who shamelessly loves to eat , then Mostly Martha offers all the perfect ingredients to more than satisfy your appetite .
@@ -380,8 +380,8 @@ sentence_index	sentence
 379	... a poignant and powerful narrative that reveals that reading writing and arithmetic are not the only subjects to learn in life .
 380	Nicely serves as an examination of a society in transition .
 381	A tender and touching drama , based on the true story of a troubled African-American 's quest to come to terms with his origins , reveals the yearning we all have in our hearts for acceptance within the family circle .
-382	As a randy film about sexy people in gorgeous places being pushed and pulled -LRB- literally and figuratively -RRB- by desire ... -LRB- Sex and LucÃ­a -RRB- makes for an arousing good time .
-383	Absorbing character study by AndrÃ© Turpin .
+382	As a randy film about sexy people in gorgeous places being pushed and pulled -LRB- literally and figuratively -RRB- by desire ... -LRB- Sex and Lucía -RRB- makes for an arousing good time .
+383	Absorbing character study by André Turpin .
 384	Celebrated at Sundance , this slight comedy of manners has winning performances and a glossy , glib charm that 's hard to beat .
 385	Renner 's performance as Dahmer is unforgettable , deeply absorbing .
 386	If no one singles out any of these performances as award-worthy , it 's only because we would expect nothing less from this bunch .
@@ -683,7 +683,7 @@ sentence_index	sentence
 682	This warm and gentle romantic comedy has enough interesting characters to fill several movies , and its ample charms should win over the most hard-hearted cynics .
 683	A yarn that respects the Marvel version without becoming ensnared by it .
 684	This is a happy throwback to the time when cartoons were cinema 's most idiosyncratic form instead of one of its most predictable .
-685	Complex , affecting and uniquely AlmodÃ³var , the film evokes strong emotions and pushes viewers to question their deepest notions of moral right and wrong .
+685	Complex , affecting and uniquely Almodóvar , the film evokes strong emotions and pushes viewers to question their deepest notions of moral right and wrong .
 686	Good ol' urban legend stuff .
 687	Not so much a movie as a picture book for the big screen .
 688	This is n't my favorite in the series , still I enjoyed it enough to recommend .
@@ -746,7 +746,7 @@ sentence_index	sentence
 745	Aside from being the funniest movie of the year , Simone , Andrew Niccol 's brilliant anti-Hollywood satire , has a wickedly eccentric enchantment to it .
 746	Watstein handily directs and edits around his screenplay 's sappier elements ... and sustains Off the Hook 's buildup with remarkable assuredness for a first-timer .
 747	Just another fish-out-of-water story that barely stays afloat .
-748	There 's an energy to Y Tu MamÃ¡ TambiÃ©n .
+748	There 's an energy to Y Tu Mamá También .
 749	Much of it comes from the brave , uninhibited performances by its lead actors .
 750	It 's the kind of pigeonhole-resisting romp that Hollywood too rarely provides .
 751	Reinforces the often forgotten fact of the world 's remarkably varying human population and mindset , and its capacity to heal using creative , natural and ancient antidotes .
@@ -884,7 +884,7 @@ sentence_index	sentence
 883	More than makes up for its mawkish posing by offering rousing spates of genuine feeling .
 884	It 's neither as romantic nor as thrilling as it should be .
 885	But it offers plenty to ponder and chew on as its unusual relationship slowly unfolds .
-886	Occasionally funny , always very colorful and enjoyably overblown in the traditional AlmodÃ³var style .
+886	Occasionally funny , always very colorful and enjoyably overblown in the traditional Almodóvar style .
 887	Merchant effectively translates Naipaul 's lively mix of characters from the page to screen .
 888	Some movies are like a tasty hors-d'oeuvre ; this one is a feast .
 889	What could have become just another cautionary fable is allowed to play out as a clever , charming tale -- as pleasantly in its own way as its self-dramatizing characters .
@@ -1150,7 +1150,7 @@ sentence_index	sentence
 1149	Woody Allen 's latest is an ambling , broad comedy about all there is to love -- and hate -- about the movie biz .
 1150	It 's a stunning lyrical work of considerable force and truth .
 1151	The inhospitability of the land emphasizes the spare precision of the narratives and helps to give them an atavistic power , as if they were tales that had been handed down since the beginning of time .
-1152	-LRB- NÃ¦s -RRB- directed the stage version of Elling , and gets fine performances from his two leads who originated the characters on stage .
+1152	-LRB- Næs -RRB- directed the stage version of Elling , and gets fine performances from his two leads who originated the characters on stage .
 1153	Made me unintentionally famous -- as the queasy-stomached critic who staggered from the theater and blacked out in the lobby .
 1154	But believe it or not , it 's one of the most beautiful , evocative works I 've seen .
 1155	A coda in every sense , The Pinochet Case splits time between a minute-by-minute account of the British court 's extradition chess game and the regime 's talking-head survivors .
@@ -1213,7 +1213,7 @@ sentence_index	sentence
 1212	A must-see for the David Mamet enthusiast and for anyone who appreciates intelligent , stylish moviemaking .
 1213	Crackerjack entertainment -- nonstop romance , music , suspense and action .
 1214	The acting , costumes , music , cinematography and sound are all astounding given the production 's austere locales .
-1215	GarcÃ­a Bernal and TalancÃ³n are an immensely appealing couple , and even though their story is predictable , you 'll want things to work out .
+1215	García Bernal and Talancón are an immensely appealing couple , and even though their story is predictable , you 'll want things to work out .
 1216	Far more imaginative and ambitious than the trivial , cash-in features Nickelodeon has made from its other animated TV series .
 1217	The very definition of the ` small ' movie , but it is a good stepping stone for director Sprecher .
 1218	A gripping , searing portrait of a lost soul trying to find her way through life .
@@ -1397,7 +1397,7 @@ sentence_index	sentence
 1396	Among the year 's most intriguing explorations of alientation .
 1397	A full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution .
 1398	Seldom has a movie so closely matched the spirit of a man and his work .
-1399	Audrey Tatou has a knack for picking roles that magnify her outrageous charm , and in this literate French comedy , she 's as morning-glory exuberant as she was in AmÃ©lie .
+1399	Audrey Tatou has a knack for picking roles that magnify her outrageous charm , and in this literate French comedy , she 's as morning-glory exuberant as she was in Amélie .
 1400	The movie has an infectious exuberance that will engage anyone with a passing interest in the skate\/surf culture , the L.A. beach scene and the imaginative -LRB- and sometimes illegal -RRB- ways kids can make a playground out of the refuse of adults .
 1401	Even if you do n't think -LRB- Kissinger 's -RRB- any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch .
 1402	The story and structure are well-honed .
@@ -1438,7 +1438,7 @@ sentence_index	sentence
 1437	Aside from minor tinkering , this is the same movie you probably loved in 1994 , except that it looks even better .
 1438	Uses high comedy to evoke surprising poignance .
 1439	It confirms Fincher 's status as a film maker who artfully bends technical know-how to the service of psychological insight .
-1440	Vera 's three actors -- MollÃ  , Gil and Bardem -- excel in insightful , empathetic performances .
+1440	Vera 's three actors -- Mollà , Gil and Bardem -- excel in insightful , empathetic performances .
 1441	A marvel like none you 've seen .
 1442	With tightly organized efficiency , numerous flashbacks and a constant edge of tension , Miller 's film is one of 2002 's involvingly adult surprises .
 1443	Mr. Tsai is a very original artist in his medium , and What Time Is It There ?
@@ -1500,7 +1500,7 @@ sentence_index	sentence
 1499	Lovely and poignant .
 1500	Puts a human face on a land most Westerners are unfamiliar with .
 1501	I ca n't say that I liked Homeboy ; it 'd be more accurate to say that I found it intriguing , bizarre , Dogma-like in spots - and quite truthful , in its way .
-1502	Displaying about equal amounts of naivetÃ© , passion and talent , Beneath Clouds establishes Sen as a filmmaker of considerable potential .
+1502	Displaying about equal amounts of naiveté , passion and talent , Beneath Clouds establishes Sen as a filmmaker of considerable potential .
 1503	The vitality of the actors keeps the intensity of the film high , even as the strafings blend together .
 1504	Not since Japanese filmmaker Akira Kurosawa 's Ran have the savagery of combat and the specter of death been visualized with such operatic grandeur .
 1505	We learn a lot about dying coral and see a lot of life on the reef .
@@ -1869,7 +1869,7 @@ sentence_index	sentence
 1868	Would be an unendurable viewing experience for this ultra-provincial New Yorker if 26-year-old Reese Witherspoon were not on hand to inject her pure fantasy character , Melanie Carmichael , with a massive infusion of old-fashioned Hollywood magic .
 1869	Visually fascinating ... an often intense character study about fathers and sons , loyalty and duty .
 1870	A lyrical metaphor for cultural and personal self-discovery and a picaresque view of a little-remembered world .
-1871	SchÃ¼tte 's dramatic snapshot of the artist three days before his death offers an interesting bit of speculation as to the issues Brecht faced as his life drew to a close .
+1871	Schütte 's dramatic snapshot of the artist three days before his death offers an interesting bit of speculation as to the issues Brecht faced as his life drew to a close .
 1872	A slick , engrossing melodrama .
 1873	S1M0NE 's satire is not subtle , but it is effective .
 1874	It 's a quirky , off-beat project .
@@ -2180,7 +2180,7 @@ sentence_index	sentence
 2179	As any creature-feature fan knows , when you cross toxic chemicals with a bunch of exotic creatures , you get a lot of running around , screaming and death .
 2180	On that score , the film certainly does n't disappoint .
 2181	As the movie traces Mr. Brown 's athletic exploits , it is impossible not to be awed by the power and grace of one of the greatest natural sportsmen of modern times .
-2182	A moving and solidly entertaining comedy\/drama that should bolster director and co-writer Juan JosÃ© Campanella 's reputation in the United States .
+2182	A moving and solidly entertaining comedy\/drama that should bolster director and co-writer Juan José Campanella 's reputation in the United States .
 2183	Thanks to confident filmmaking and a pair of fascinating performances , the way to that destination is a really special walk in the woods .
 2184	Beautifully shot , delicately scored and powered by a set of heartfelt performances , it 's a lyrical endeavour .
 2185	A macabre and very stylized Swedish fillm about a modern city where all the religious and civic virtues that hold society in place are in tatters .
@@ -2316,7 +2316,7 @@ sentence_index	sentence
 2315	Real Women may have many agendas , but it also will win you over , in a big way .
 2316	Young Everlyn Sampi , as the courageous Molly Craig , simply radiates star-power potential in this remarkable and memorable film .
 2317	Surprisingly powerful and universal .
-2318	Apart from its own considerable achievement , Metropolis confirms Tezuka 's status as both the primary visual influence on the animÃ© tradition and its defining philosophical conscience .
+2318	Apart from its own considerable achievement , Metropolis confirms Tezuka 's status as both the primary visual influence on the animé tradition and its defining philosophical conscience .
 2319	I 'll put it this way : If you 're in the mood for a melodrama narrated by talking fish , this is the movie for you .
 2320	Morvern Callar confirms Lynne Ramsay as an important , original talent in international cinema .
 2321	Well-done supernatural thriller with keen insights into parapsychological phenomena and the soulful nuances of the grieving process .
@@ -2346,7 +2346,7 @@ sentence_index	sentence
 2345	Pacino and Williams seem to keep upping the ante on each other , just as their characters do in the film .
 2346	What results is the best performance from either in years .
 2347	The cast is top-notch and I predict there will be plenty of female audience members drooling over Michael Idemoto as Michael .
-2348	BÃ©art and Berling are both superb , while Huppert ... is magnificent .
+2348	Béart and Berling are both superb , while Huppert ... is magnificent .
 2349	All the actors are good in Pauline & Paulette but van der Groen , described as ` Belgium 's national treasure , ' is especially terrific as Pauline .
 2350	Miyazaki has created such a vibrant , colorful world , it 's almost impossible not to be swept away by the sheer beauty of his images .
 2351	Muccino seems to be exploring the idea of why human beings long for what they do n't have , and how this gets us in trouble .
@@ -2491,7 +2491,7 @@ sentence_index	sentence
 2490	The filmmakers ' eye for detail and the high standards of performance convey a strong sense of the girls ' environment .
 2491	Uneven , self-conscious but often hilarious spoof .
 2492	Even bigger and more ambitious than the first installment , Spy Kids 2 looks as if it were made by a highly gifted 12-year-old instead of a grown man .
-2493	Thanks to The ChÃ¢teau 's balance of whimsicality , narrative discipline and serious improvisation , almost every relationship and personality in the film yields surprises .
+2493	Thanks to The Château 's balance of whimsicality , narrative discipline and serious improvisation , almost every relationship and personality in the film yields surprises .
 2494	Alan and his fellow survivors are idiosyncratic enough to lift the movie above its playwriting 101 premise .
 2495	Fresh and raw like a blown-out vein , Narc takes a walking-dead , cop-flick subgenre and beats new life into it .
 2496	The premise of Jason X is silly but strangely believable .
@@ -2553,9 +2553,9 @@ sentence_index	sentence
 2552	A photographic marvel of sorts , and it 's certainly an invaluable record of that special fishy community .
 2553	It 's soulful and unslick , and that 's apparently just what -LRB- Aniston -RRB- has always needed to grow into a movie career .
 2554	Although Olivier Assayas ' elegantly appointed period drama seems , at times , padded with incident in the way of a too-conscientious adaptation ... its three-hour running time plays closer to two .
-2555	A jaw-droppingly beautiful work that upends nearly every clichÃ© of Japanese animation while delivering a more than satisfactory amount of carnage .
+2555	A jaw-droppingly beautiful work that upends nearly every cliché of Japanese animation while delivering a more than satisfactory amount of carnage .
 2556	Terry is a sort of geriatric Dirty Harry , which will please Eastwood 's loyal fans -- and suits the story , wherein our hero must ride roughshod over incompetent cops to get his man .
-2557	Parts seem like they were lifted from Terry Gilliam 's subconscious , pressed through Kafka 's meat grinder and into BuÃ±uel 's casings
+2557	Parts seem like they were lifted from Terry Gilliam 's subconscious , pressed through Kafka 's meat grinder and into Buñuel 's casings
 2558	` Like a child with an important message to tell ... -LRB- Skins ' -RRB- faults are easy to forgive because the intentions are lofty . '
 2559	A delightful entree in the tradition of food movies .
 2560	An escapist confection that 's pure entertainment .
@@ -2667,7 +2667,7 @@ sentence_index	sentence
 2666	It 's bright , pristine style and bold colors make it as much fun as reading an oversized picture book before bedtime .
 2667	In the long , dishonorable history of quickie teen-pop exploitation , Like Mike stands out for its only partly synthetic decency .
 2668	Bravo for history rewritten , and for the uncompromising knowledge that the highest power of all is the power of love .
-2669	Lead actress GaÃ¯ , she of the impossibly long limbs and sweetly conspiratorial smile , is a towering siren .
+2669	Lead actress Gaï , she of the impossibly long limbs and sweetly conspiratorial smile , is a towering siren .
 2670	Even if you 've seen `` Stomp '' -LRB- the stage show -RRB- , you still have to see this !
 2671	... a light , yet engrossing piece .
 2672	Lux , now in her eighties , does a great combination act as narrator , Jewish grandmother and subject -- taking us through a film that is part biography , part entertainment and part history .
@@ -2711,7 +2711,7 @@ sentence_index	sentence
 2710	-LRB- The digital effects -RRB- reminded me of Terry Gilliam 's rudimentary old Monty Python cartoons , in which he would cut out figures from drawings and photographs and paste them together .
 2711	An entertaining mix of period drama and flat-out farce that should please history fans .
 2712	Canada 's arctic light shines bright on this frozen tundra soap opera that breathes extraordinary life into the private existence of the Inuit people .
-2713	The fluid motion is astounding on any number of levels -- including the physical demands made on BÃ¼ttner -- and it implies in its wake the intractable , irreversible flow of history .
+2713	The fluid motion is astounding on any number of levels -- including the physical demands made on Büttner -- and it implies in its wake the intractable , irreversible flow of history .
 2714	Alternately hilarious and sad , aggravating and soulful , scathing and joyous .
 2715	It 's a masterpeice .
 2716	The film 's messages of tolerance and diversity are n't particularly original , but one ca n't help but be drawn in by the sympathetic characters .
@@ -2744,7 +2744,7 @@ sentence_index	sentence
 2743	A low-key labor of love that strikes a very resonant chord .
 2744	An average kid-empowerment fantasy with slightly above-average brains .
 2745	Confessions is n't always coherent , but it 's sharply comic and surprisingly touching , so hold the gong .
-2746	While GuzmÃ¡n frustratingly refuses to give Pinochet 's crimes a political context , his distance from the material is mostly admirable .
+2746	While Guzmán frustratingly refuses to give Pinochet 's crimes a political context , his distance from the material is mostly admirable .
 2747	... a story , an old and scary one , about the monsters we make , and the vengeance they take .
 2748	A sentimental but entirely irresistible portrait of three aging sisters .
 2749	White Oleander may leave you rolling your eyes in the dark , but that does n't mean you wo n't like looking at it .
@@ -2828,7 +2828,7 @@ sentence_index	sentence
 2827	Leigh succeeds in delivering a dramatic slap in the face that 's simultaneously painful and refreshing .
 2828	Not about scares but a mood in which an ominous , pervasive , and unknown threat lurks just below the proceedings and adds an almost constant mindset of suspense .
 2829	` Film aficionados can not help but love Cinema Paradiso , whether the original version or new Director 's Cut . '
-2830	A fascinating glimpse into an insular world that gives the lie to many clichÃ©s and showcases a group of dedicated artists .
+2830	A fascinating glimpse into an insular world that gives the lie to many clichés and showcases a group of dedicated artists .
 2831	It 's one thing to read about or rail against the ongoing - and unprecedented - construction project going on over our heads .
 2832	It 's quite another to feel physically caught up in the process .
 2833	Contradicts everything we 've come to expect from movies nowadays .
@@ -3169,7 +3169,7 @@ sentence_index	sentence
 3168	B picture , and I mean that as a compliment .
 3169	This one is not nearly as dreadful as expected .
 3170	In fact , it 's quite fun in places .
-3171	With elements cribbed from Lang 's Metropolis , Welles ' Kane , and Eisenstein 's Potemkin , the true wonder of RintarÃ´ 's Metropolis is the number of lasting images all its own .
+3171	With elements cribbed from Lang 's Metropolis , Welles ' Kane , and Eisenstein 's Potemkin , the true wonder of Rintarô 's Metropolis is the number of lasting images all its own .
 3172	A biopic about Crane 's life in the classic tradition but evolves into what has become of us all in the era of video .
 3173	The best of the Pierce Brosnan James Bond films to date .
 3174	Thanks to a small star with big heart , this family film sequel is plenty of fun for all .
@@ -3349,7 +3349,7 @@ sentence_index	sentence
 3348	As a director , Paxton is surprisingly brilliant , deftly sewing together what could have been a confusing and horrifying vision into an intense and engrossing head-trip .
 3349	The film is filled with humorous observations about the general absurdity of modern life as seen through the eyes outsiders , but deftly manages to avoid many of the condescending stereotypes that so often plague films dealing with the mentally ill .
 3350	Daughter From Danang sticks with its subjects a little longer and tells a deeper story
-3351	A coming-of-age film that avoids the cartoonish clichÃ©s and sneering humor of the genre as it provides a fresh view of an old type -- the uncertain girl on the brink of womanhood .
+3351	A coming-of-age film that avoids the cartoonish clichés and sneering humor of the genre as it provides a fresh view of an old type -- the uncertain girl on the brink of womanhood .
 3352	The faithful will enjoy this sometimes wry adaptation of V.S. Naipaul 's novel , but newcomers may find themselves stifling a yawn or two during the first hour .
 3353	A distinguished and thoughtful film , marked by acute writing and a host of splendid performances .
 3354	Barry convinces us he 's a dangerous , secretly unhinged guy who could easily have killed a president because it made him feel powerful .
@@ -3477,7 +3477,7 @@ sentence_index	sentence
 3476	It 's no accident that The Accidental Spy is a solid action pic that returns the martial arts master to top form .
 3477	Leave it to the French to truly capture the terrifying angst of the modern working man without turning the film into a cheap thriller , a dumb comedy or a sappy melodrama .
 3478	The director , Mark Pellington , does a terrific job conjuring up a sinister , menacing atmosphere though unfortunately all the story gives us is flashing red lights , a rattling noise , and a bump on the head .
-3479	Heartwarming here relies less on forced air than on Petter NÃ¦ss ' delicate , clever direction ... and a wonderful , imaginative script by Axel Hellstenius .
+3479	Heartwarming here relies less on forced air than on Petter Næss ' delicate , clever direction ... and a wonderful , imaginative script by Axel Hellstenius .
 3480	Makes the case for a strong education and good teachers being more valuable in the way they help increase an average student 's self-esteem , and not strictly in the knowledge imparted .
 3481	Steers refreshingly clear of the usual cliches .
 3482	`` Home Movie '' is a sweet treasure and something well worth your time .
@@ -3712,7 +3712,7 @@ sentence_index	sentence
 3711	Colorful and deceptively buoyant until it suddenly pulls the rug out from under you , Burkinabe filmmaker Dani Kouyate 's reworking of a folk story whose roots go back to 7th-century oral traditions is also a pointed political allegory .
 3712	It 's a powerful though flawed movie , guaranteed to put a lump in your throat while reaffirming Washington as possibly the best actor working in movies today .
 3713	Director Paul Cox 's unorthodox , abstract approach to visualizing Nijinsky 's diaries is both stimulating and demanding .
-3714	For 95 often hilarious minutes , -LRB- Cho -RRB- riffs on the diciness of colonics , on straight versus gay personal ads , on how men would act if they had periods , and on the perils of a certain outrÃ© sexual practice .
+3714	For 95 often hilarious minutes , -LRB- Cho -RRB- riffs on the diciness of colonics , on straight versus gay personal ads , on how men would act if they had periods , and on the perils of a certain outré sexual practice .
 3715	Most of the things that made the original Men in Black such a pleasure are still there .
 3716	Mostly honest , this somber picture reveals itself slowly , intelligently , artfully .
 3717	Best enjoyed as a work of fiction inspired by real-life events .
@@ -3806,7 +3806,7 @@ sentence_index	sentence
 3805	Swimming is above all about a young woman 's face , and by casting an actress whose face projects that woman 's doubts and yearnings , it succeeds .
 3806	A respectable venture on its own terms , lacking the broader vision that has seen certain Trek films ... cross over to a more mainstream audience .
 3807	It 's weird , wonderful , and not necessarily for kids .
-3808	An elegant film with often surprising twists and an intermingling of naivetÃ© and sophistication .
+3808	An elegant film with often surprising twists and an intermingling of naiveté and sophistication .
 3809	Blessed with two fine , nuanced lead performances .
 3810	While this has the making of melodrama , the filmmaker cuts against this natural grain , producing a work that 's more interested in asking questions than in answering them .
 3811	As a girl-meets-girl romantic comedy , Kissing Jessica Steinis quirky , charming and often hilarious .
@@ -3910,7 +3910,7 @@ sentence_index	sentence
 3909	Good performances and a realistic , non-exploitive approach make Paid in Full worth seeing .
 3910	This engrossing , characteristically complex Tom Clancy thriller is shifty in the manner in which it addresses current terrorism anxieties and sidesteps them at the same time .
 3911	Ryan Gosling is , in a word , brilliant as the conflicted Daniel .
-3912	... somehow manages to escape the shackles of its own clichÃ©s to be the best espionage picture to come out in weeks .
+3912	... somehow manages to escape the shackles of its own clichés to be the best espionage picture to come out in weeks .
 3913	Much of The Lady and the Duke is about quiet , decisive moments between members of the cultural elite as they determine how to proceed as the world implodes .
 3914	Takes a simple premise and carries it to unexpected heights .
 3915	With few respites , Marshall keeps the energy humming , and his edits , unlike those in Moulin Rouge , are crisp and purposeful without overdoing it .
@@ -4179,7 +4179,7 @@ sentence_index	sentence
 4178	It is refreshingly undogmatic about its characters .
 4179	A moving and important film .
 4180	Deep intelligence and a warm , enveloping affection breathe out of every frame .
-4181	Famuyiwa 's feature deals with its subject matter in a tasteful , intelligent manner , rather than forcing us to endure every plot contrivance that the clichÃ©-riddled genre can offer .
+4181	Famuyiwa 's feature deals with its subject matter in a tasteful , intelligent manner , rather than forcing us to endure every plot contrivance that the cliché-riddled genre can offer .
 4182	Showtime is a fine-looking film with a bouncy score and a clutch of lively songs for deft punctuation .
 4183	Sweet Home Alabama is n't going to win any Academy Awards , but this date-night diversion will definitely win some hearts .
 4184	a cruelly funny twist on teen comedy packed with inventive cinematic tricks and an ironically killer soundtrack
@@ -4410,7 +4410,7 @@ sentence_index	sentence
 4409	Though it 's equally solipsistic in tone , the movie has enough vitality to justify the notion of creating a screen adaptation of Evans ' saga of Hollywood excess .
 4410	Compulsively watchable , no matter how degraded things get .
 4411	Delivers roughly equal amounts of beautiful movement and inside information .
-4412	Bon appÃ©tit !
+4412	Bon appétit !
 4413	Just like a splendid meal , Red Dragon satisfies -- from its ripe recipe , inspiring ingredients , certified cuisine and palatable presentation .
 4414	The structure is simple , but in its own way , Rabbit-Proof Fence is a quest story as grand as The Lord of the Rings .
 4415	This charming , thought-provoking New York fest of life and love has its rewards .
@@ -4420,7 +4420,7 @@ sentence_index	sentence
 4419	The charm of the first movie is still there , and the story feels like the logical , unforced continuation of the careers of a pair of spy kids .
 4420	K 19 stays afloat as decent drama\/action flick
 4421	It sends you away a believer again and quite cheered at just that .
-4422	Like the best 60 Minutes exposÃ© , the film -LRB- at 80 minutes -RRB- is actually quite entertaining .
+4422	Like the best 60 Minutes exposé , the film -LRB- at 80 minutes -RRB- is actually quite entertaining .
 4423	an 83 minute document of a project which started in a muddle , seesawed back and forth between controlling interests multiple times , then found its sweet spot
 4424	An emotionally and spiritually compelling journey seen through the right eyes , with the right actors and with the kind of visual flair that shows what great cinema can really do .
 4425	Nair does n't use -LRB- Monsoon Wedding -RRB- to lament the loss of culture .
@@ -4429,7 +4429,7 @@ sentence_index	sentence
 4428	Leading a double life in an American film only comes to no good , but not here .
 4429	Matters play out realistically if not always fairly .
 4430	In the affable Maid in Manhattan , Jennifer Lopez 's most aggressive and most sincere attempt to take movies by storm , the diva shrewdly surrounds herself with a company of strictly A-list players .
-4431	Like Mike is a harmlessly naÃ¯ve slice of b-ball fantasy , fit for filling in during the real NBA 's off-season .
+4431	Like Mike is a harmlessly naïve slice of b-ball fantasy , fit for filling in during the real NBA 's off-season .
 4432	Though writer\/director Bart Freundlich 's film ultimately becomes a simplistic story about a dysfunctional parent-child relationship , it has some special qualities and the soulful gravity of Crudup 's anchoring performance .
 4433	What the movie lacks in action it more than makes up for in drama , suspense , revenge , and romance .
 4434	Just offbeat enough to keep you interested without coming close to bowling you over .
@@ -4646,10 +4646,10 @@ sentence_index	sentence
 4645	The cast ... keeps this pretty watchable , and casting Mick Jagger as director of the escort service was inspired .
 4646	An entertaining , if somewhat standardized , action movie .
 4647	It has a dashing and resourceful hero ; a lisping , reptilian villain ; big fights ; big hair ; lavish period scenery ; and a story just complicated enough to let you bask in your own cleverness as you figure it out .
-4648	An enjoyable comedy of lingual and cultural differences ... The ChÃ¢teau is a film -- full of life and small delights -- that has all the wiggling energy of young kitten .
+4648	An enjoyable comedy of lingual and cultural differences ... The Château is a film -- full of life and small delights -- that has all the wiggling energy of young kitten .
 4649	Intriguing and downright intoxicating .
 4650	An incredibly thoughtful , deeply meditative picture that neatly and effectively captures the debilitating grief felt in the immediate aftermath of the terrorist attacks .
-4651	With an obvious rapport with her actors and a striking style behind the camera , HÃ©lÃ¨ne Angel is definitely a director to watch .
+4651	With an obvious rapport with her actors and a striking style behind the camera , Hélène Angel is definitely a director to watch .
 4652	... could easily be called the best Korean film of 2002 .
 4653	Full of detail about the man and his country , and is well worth seeing .
 4654	The banter between Calvin and his fellow barbers feels like a streetwise McLaughlin Group ... and never fails to entertain .
@@ -4727,7 +4727,7 @@ sentence_index	sentence
 4726	Some of the visual flourishes are a little too obvious , but restrained and subtle storytelling , and fine performances make this delicate coming-of-age tale a treat .
 4727	It is hard not to be especially grateful for freedom after a film like this .
 4728	The dirty jokes provide the funniest moments in this oddly sweet comedy about jokester highway patrolmen .
-4729	Y Tu MamÃ¡ TambiÃ©n is hilariously , gloriously alive , and quite often hotter than Georgia asphalt .
+4729	Y Tu Mamá También is hilariously , gloriously alive , and quite often hotter than Georgia asphalt .
 4730	... works on some levels and is certainly worth seeing at least once .
 4731	You come away from his film overwhelmed , hopeful and , perhaps paradoxically , illuminated .
 4732	If the material is slight and admittedly manipulative , Jacquot preserves Tosca 's intoxicating ardor through his use of the camera .
@@ -4956,12 +4956,12 @@ sentence_index	sentence
 4955	It 's an exhilarating place to visit , this laboratory of laughter .
 4956	`` Simone '' is a fun and funky look into an artificial creation in a world that thrives on artificiality .
 4957	A great companion piece to other Napoleon films .
-4958	To some eyes this will seem like a recycling of clichÃ©s , an assassin 's greatest hits .
+4958	To some eyes this will seem like a recycling of clichés , an assassin 's greatest hits .
 4959	To others , it will remind them that Hong Kong action cinema is still alive and kicking .
 4960	At the end of the movie , my 6-year-old nephew said , `` I guess I come from a broken family , and my uncles are all aliens , too . ''
 4961	Congrats Disney on a job well done , I enjoyed it just as much !
 4962	A remarkably alluring film set in the constrictive Eisenhower era about one suburban woman 's yearning in the face of a loss that shatters her cheery and tranquil suburban life .
-4963	Berling and BÃ©art ... continue to impress , and Isabelle Huppert ... again shows uncanny skill in getting under the skin of her characters .
+4963	Berling and Béart ... continue to impress , and Isabelle Huppert ... again shows uncanny skill in getting under the skin of her characters .
 4964	Uplifting , funny and wise .
 4965	Remarkable for its intelligence and intensity .
 4966	The hypnotic imagery and fragmentary tale explore the connections between place and personal identity .
@@ -4994,7 +4994,7 @@ sentence_index	sentence
 4993	By applying definition to both sides of the man , the picture realizes a fullness that does not negate the subject .
 4994	Who is the audience for Cletis Tout ?
 4995	Anybody who enjoys quirky , fun , popcorn movies with a touch of silliness and a little bloodshed .
-4996	-LRB- CuarÃ³n has -RRB- created a substantive movie out of several cliched movie structures : the road movie , the coming-of-age movie , and the teenage sex comedy .
+4996	-LRB- Cuarón has -RRB- created a substantive movie out of several cliched movie structures : the road movie , the coming-of-age movie , and the teenage sex comedy .
 4997	Puts to rest any thought that the German film industry can not make a delightful comedy centering on food .
 4998	Witty dialog between realistic characters showing honest emotions .
 4999	It 's touching and tender and proves that even in sorrow you can find humor .
@@ -5084,7 +5084,7 @@ sentence_index	sentence
 5083	Carrying off a spot-on Scottish burr , Duvall -LRB- also a producer -RRB- peels layers from this character that may well not have existed on paper .
 5084	The acting , for the most part , is terrific , although the actors must struggle with the fact that they 're playing characters who sometimes feel more like literary conceits than flesh-and-blood humans .
 5085	Some Body will take you places you have n't been , and also places you have .
-5086	VeretÃ© has a whip-smart sense of narrative bluffs .
+5086	Vereté has a whip-smart sense of narrative bluffs .
 5087	Parts of the film feel a bit too much like an infomercial for Ram Dass 's latest book aimed at the boomer demographic .
 5088	But mostly it 's a work that , with humor , warmth , and intelligence , captures a life interestingly lived .
 5089	Were it not for a sentimental resolution that explains way more about Cal than does the movie or the character any good , Freundlich 's World Traveler might have been one of the more daring and surprising American movies of the year .
@@ -5715,7 +5715,7 @@ sentence_index	sentence
 5714	The movie 's something-borrowed construction feels less the product of loving , well integrated homage and more like a mere excuse for the wan , thinly sketched story .
 5715	Killing time , that 's all that 's going on here .
 5716	Somewhere in the middle , the film compels , as Demme experiments he harvests a few movie moment gems , but the field of roughage dominates .
-5717	The action clichÃ©s just pile up .
+5717	The action clichés just pile up .
 5718	Payami tries to raise some serious issues about Iran 's electoral process , but the result is a film that 's about as subtle as a party political broadcast .
 5719	The only surprise is that heavyweights Joel Silver and Robert Zemeckis agreed to produce this ; I assume the director has pictures of them cavorting in ladies ' underwear .
 5720	Another useless recycling of a brutal mid - '70s American sports movie .
@@ -5739,7 +5739,7 @@ sentence_index	sentence
 5738	Forget the misleading title , what 's with the unexplained baboon cameo ?
 5739	An odd , haphazard , and inconsequential romantic comedy .
 5740	Though her fans will assuredly have their funny bones tickled , others will find their humor-seeking dollars best spent elsewhere .
-5741	Pascale Bailly 's rom-com provides AmÃ©lie 's Audrey Tautou with another fabuleux destin -- i.e. , a banal spiritual quest .
+5741	Pascale Bailly 's rom-com provides Amélie 's Audrey Tautou with another fabuleux destin -- i.e. , a banal spiritual quest .
 5742	A static and sugary little half-hour , after-school special about interfaith understanding , stretched out to 90 minutes .
 5743	Watching the chemistry between Freeman and Judd , however , almost makes this movie worth seeing .
 5744	Almost .
@@ -5803,7 +5803,7 @@ sentence_index	sentence
 5802	The trouble with making this queen a thoroughly modern maiden is that it also makes her appear foolish and shallow rather than , as was more likely , a victim of mental illness .
 5803	I 'm not saying that Ice Age does n't have some fairly pretty pictures , but there 's not enough substance in the story to actually give them life .
 5804	In the telling of a story largely untold , Bui chooses to produce something that is ultimately suspiciously familiar .
-5805	The plot is nothing but boilerplate clichÃ©s from start to finish , and the script assumes that not only would subtlety be lost on the target audience , but that it 's also too stupid to realize that they 've already seen this exact same movie a hundred times
+5805	The plot is nothing but boilerplate clichés from start to finish , and the script assumes that not only would subtlety be lost on the target audience , but that it 's also too stupid to realize that they 've already seen this exact same movie a hundred times
 5806	Terminally brain dead production .
 5807	Some episodes work , some do n't .
 5808	Beautifully filmed and well acted ... but admittedly problematic in its narrative specifics .
@@ -5914,7 +5914,7 @@ sentence_index	sentence
 5913	Ver Wiel 's desperate attempt at wit is lost , leaving the character of Critical Jim two-dimensional and pointless .
 5914	Despite a performance of sustained intelligence from Stanford and another of subtle humour from Bebe Neuwirth , as an older woman who seduces Oscar , the film founders on its lack of empathy for the social milieu - rich New York intelligentsia - and its off
 5915	Although Disney follows its standard formula in this animated adventure , it feels more forced than usual .
-5916	Gaghan ... has thrown every suspenseful clichÃ© in the book at this nonsensical story .
+5916	Gaghan ... has thrown every suspenseful cliché in the book at this nonsensical story .
 5917	A sham construct based on theory , sleight-of-hand , and ill-wrought hypothesis .
 5918	-LRB- P -RRB- artnering Murphy with Robert De Niro for the TV-cops comedy Showtime would seem to be surefire casting .
 5919	The catch is that they 're stuck with a script that prevents them from firing on all cylinders .
@@ -5935,7 +5935,7 @@ sentence_index	sentence
 5934	It 's sweet and fluffy at the time , but it may leave you feeling a little sticky and unsatisfied .
 5935	The most anti-human big studio picture since 3000 Miles to Graceland .
 5936	The film can depress you about life itself .
-5937	I 'm sure the filmmakers found this a remarkable and novel concept , but anybody who has ever seen an independent film can report that it is instead a cheap clichÃ© .
+5937	I 'm sure the filmmakers found this a remarkable and novel concept , but anybody who has ever seen an independent film can report that it is instead a cheap cliché .
 5938	The acting is fine but the script is about as interesting as a recording of conversations at the Wal-Mart checkout line .
 5939	Its weighty themes are too grave for youngsters , but the story is too steeped in fairy tales and other childish things to appeal much to teenagers .
 5940	The plot plummets into a comedy graveyard before Janice comes racing to the rescue in the final reel .
@@ -5953,7 +5953,7 @@ sentence_index	sentence
 5952	It winds up moving in many directions as it searches -LRB- vainly , I think -RRB- for something fresh to say .
 5953	All in all , Road to Perdition is more in love with strangeness than excellence .
 5954	A big fat pain .
-5955	A mimetic approximation of better films like Contempt and 8Â 1\/2 .
+5955	A mimetic approximation of better films like Contempt and 8 1\/2 .
 5956	Unintelligible , poorly acted , brain-slappingly bad , Harvard Man is ludicrous enough that it could become a cult classic .
 5957	Watching The Powerpuff Girls Movie , my mind kept returning to one anecdote for comparison : the cartoon in Japan that gave people seizures .
 5958	An inelegant combination of two unrelated shorts that falls far short of the director 's previous work in terms of both thematic content and narrative strength .
@@ -6157,7 +6157,7 @@ sentence_index	sentence
 6156	... while certainly clever in spots , this too-long , spoofy update of Shakespeare 's Macbeth does n't sustain a high enough level of invention .
 6157	Lucas has in fact come closer than anyone could desire to the cheap , graceless , hackneyed sci-fi serials of the '30s and '40s .
 6158	There 's a lot of good material here , but there 's also a lot of redundancy and unsuccessful crudeness accompanying it .
-6159	Absurdities and clichÃ©s accumulate like lint in a fat man 's navel .
+6159	Absurdities and clichés accumulate like lint in a fat man 's navel .
 6160	If you think it 's a riot to see Rob Schneider in a young woman 's clothes , then you 'll enjoy The Hot Chick .
 6161	The sheer dumbness of the plot -LRB- other than its one good idea -RRB- and the movie 's inescapable air of sleaziness get you down .
 6162	Strangely comes off as a kingdom more mild than wild .
@@ -6234,11 +6234,11 @@ sentence_index	sentence
 6233	-LRB- Javier Bardem is -RRB- one of the few reasons to watch the film , which director Gerardo Vera has drenched in swoony music and fever-pitched melodrama .
 6234	Feels shrill , simple and soapy .
 6235	Adults , other than the parents ... will be hard pressed to succumb to the call of the wild .
-6236	Brady achieves the remarkable feat of squandering a topnotch foursome of actors ... by shoving them into every clichÃ©d white-trash situation imaginable .
+6236	Brady achieves the remarkable feat of squandering a topnotch foursome of actors ... by shoving them into every clichéd white-trash situation imaginable .
 6237	In the name of an allegedly inspiring and easily marketable flick , The Emperor 's Club turns a blind eye to the very history it pretends to teach .
 6238	No amount of blood and disintegrating vampire cadavers can obscure this movie 's lack of ideas .
 6239	A direct-to-void release , heading nowhere .
-6240	Typical animÃ© , with cheapo animation -LRB- like Saturday morning TV in the '60s -RRB- , a complex sword-and-sorcery plot and characters who all have big round eyes and Japanese names .
+6240	Typical animé , with cheapo animation -LRB- like Saturday morning TV in the '60s -RRB- , a complex sword-and-sorcery plot and characters who all have big round eyes and Japanese names .
 6241	Below is well below expectations .
 6242	At no point during K-19 : The Widowmaker did this viewer feel enveloped in a story that , though meant to be universal in its themes of loyalty , courage and dedication to a common goal , never seems to leave the lot .
 6243	... standard guns versus martial arts cliche with little new added .
@@ -6414,7 +6414,7 @@ sentence_index	sentence
 6413	Serving Sara is little more than a mall movie designed to kill time .
 6414	Too smart to ignore but a little too smugly superior to like , this could be a movie that ends up slapping its target audience in the face by shooting itself in the foot .
 6415	A well-made but emotionally scattered film whose hero gives his heart only to the dog .
-6416	The most repugnant adaptation of a classic text since Roland JoffÃ© and Demi Moore 's The Scarlet Letter .
+6416	The most repugnant adaptation of a classic text since Roland Joffé and Demi Moore 's The Scarlet Letter .
 6417	The isolated moments of creative insanity finally are lost in the thin soup of canned humor .
 6418	As a movie , it never seems fresh and vital .
 6419	It never plays as dramatic even when dramatic things happen to people .
@@ -6459,7 +6459,7 @@ sentence_index	sentence
 6458	`` the road paved with good intentions leads to the video store ''
 6459	Animated drivel meant to enhance the self-image of drooling idiots .
 6460	One scene after another in this supposedly funny movie falls to the floor with a sickening thud .
-6461	` The ChÃ¢teau is never quite able to overcome the cultural moat surrounding its ludicrous and contrived plot . '
+6461	` The Château is never quite able to overcome the cultural moat surrounding its ludicrous and contrived plot . '
 6462	Meyjes focuses too much on Max when he should be filling the screen with this tortured , dull artist and monster-in-the - making .
 6463	Jacobi , the most fluent of actors , is given relatively dry material from Nijinsky 's writings to perform , and the visuals , even erotically frank ones , become dullingly repetitive .
 6464	Crudup 's screen presence is the one thing that holds interest in the midst of a mushy , existential exploration of why men leave their families .
@@ -6512,7 +6512,7 @@ sentence_index	sentence
 6511	Several uninteresting , unlikeable people do bad things to and with each other in `` Unfaithful . ''
 6512	Why anyone who is not a character in this movie should care is beyond me .
 6513	Hill looks to be going through the motions , beginning with the pale script .
-6514	Howard conjures the past via surrealist flourishes so overwrought you 'd swear he just stepped out of a BuÃ±uel retrospective .
+6514	Howard conjures the past via surrealist flourishes so overwrought you 'd swear he just stepped out of a Buñuel retrospective .
 6515	The best thing that can be said of the picture is that it does have a few cute moments .
 6516	It 's not a bad premise , just a bad movie .
 6517	An already thin story boils down to surviving invaders seeking an existent anti-virus .
@@ -6713,7 +6713,7 @@ sentence_index	sentence
 6712	At the one-hour mark , Herzog simply runs out of ideas and the pace turns positively leaden as the movie sputters to its inevitable tragic conclusion .
 6713	... too contrived to be as naturally charming as it needs to be .
 6714	A simpler , leaner treatment would have been preferable ; after all , being about nothing is sometimes funnier than being about something .
-6715	The characters are based on stock clichÃ©s , and the attempt to complicate the story only defies credibility .
+6715	The characters are based on stock clichés , and the attempt to complicate the story only defies credibility .
 6716	Everything about it from the bland songs to the colorful but flat drawings is completely serviceable and quickly forgettable .
 6717	Not the Great American Comedy , but if you liked the previous movies in the series , you 'll have a good time with this one too .
 6718	A domestic melodrama with weak dialogue and biopic cliches .
@@ -6948,7 +6948,7 @@ sentence_index	sentence
 6947	It 's loud and boring ; watching it is like being trapped at a bad rock concert .
 6948	Merely -LRB- and literally -RRB- tosses around sex toys and offers half-hearted paeans to empowerment that are repeatedly undercut by the brutality of the jokes , most at women 's expense .
 6949	If you want a movie time trip , the 1960 version is a far smoother ride .
-6950	Traffics in the kind of prechewed racial clichÃ©s that have already been through the corporate stand-up-comedy mill .
+6950	Traffics in the kind of prechewed racial clichés that have already been through the corporate stand-up-comedy mill .
 6951	The story is -- forgive me -- a little thin , and the filmmaking clumsy and rushed .
 6952	... grows decidedly flimsier with its many out-sized , out of character and logically porous action set pieces .
 6953	I wish Windtalkers had had more faith in the dramatic potential of this true story .
@@ -6956,7 +6956,7 @@ sentence_index	sentence
 6955	Aggressive self-glorification and a manipulative whitewash .
 6956	Stay for the credits and see a devastating comic impersonation by Dustin Hoffman that is revelatory .
 6957	None of the characters or plot-lines are fleshed-out enough to build any interest .
-6958	As social exposÃ© , Skins has its heart in the right place , but that 's not much to hang a soap opera on .
+6958	As social exposé , Skins has its heart in the right place , but that 's not much to hang a soap opera on .
 6959	The whole film has this sneaky feel to it -- as if the director is trying to dupe the viewer into taking it all as Very Important simply because the movie is ugly to look at and not a Hollywood product .
 6960	There 's a bit of thematic meat on the bones of Queen of the Damned , as its origins in an Anne Rice novel dictate , but generally , it 's a movie that emphasizes style over character and substance .
 6961	The only way to tolerate this insipid , brutally clueless film might be with a large dose of painkillers .
@@ -7037,7 +7037,7 @@ sentence_index	sentence
 7036	So earnest and well-meaning , and so stocked with talent , that you almost forget the sheer , ponderous awfulness of its script .
 7037	Just a string of stale gags , with no good inside dope , and no particular bite .
 7038	It 's Splash without the jokes .
-7039	The ChÃ¢teau would have been benefited from a sharper , cleaner script before it went in front of the camera .
+7039	The Château would have been benefited from a sharper , cleaner script before it went in front of the camera .
 7040	Not to mention a sharper , cleaner camera lens .
 7041	Shallow , noisy and pretentious .
 7042	Morrissette has performed a difficult task indeed - he 's taken one of the world 's most fascinating stories and made it dull , lifeless , and irritating .
@@ -7185,7 +7185,7 @@ sentence_index	sentence
 7184	... generically , forgettably pleasant from start to finish .
 7185	It 's just hard to believe that a life like this can sound so dull .
 7186	When not wallowing in its characters ' frustrations , the movie is busy contriving false , sitcom-worthy solutions to their problems .
-7187	An overstylized , purÃ©ed mÃ©lange of sex , psychology , drugs and philosophy .
+7187	An overstylized , puréed mélange of sex , psychology , drugs and philosophy .
 7188	Sometimes entertaining , sometimes indulgent -- but never less than pure wankery .
 7189	` Lovely and Amazing , ' unhappily , is neither ... excessively strained and contrived .
 7190	Ringu is a disaster of a story , full of holes and completely lacking in chills .
@@ -7204,7 +7204,7 @@ sentence_index	sentence
 7203	Director Uwe Boll and writer Robert Dean Klein fail to generate any interest in an unsympathetic hero caught up in an intricate plot that while cleverly worked out , can not overcome blah characters .
 7204	Ms. Phoenix is completely lacking in charm and charisma , and is unable to project either Esther 's initial anomie or her eventual awakening .
 7205	The movie fails to portray its literarily talented and notorious subject as anything much more than a dirty old man .
-7206	A clichÃ©d and shallow cautionary tale about the hard-partying lives of gay men .
+7206	A clichéd and shallow cautionary tale about the hard-partying lives of gay men .
 7207	The fetid underbelly of fame has never looked uglier .
 7208	A little weak -- and it is n't that funny .
 7209	While it is welcome to see a Chinese film depict a homosexual relationship in a mature and frank fashion , Lan Yu never catches dramatic fire .
@@ -7327,10 +7327,10 @@ sentence_index	sentence
 7326	A dark , dull thriller with a parting shot that misfires .
 7327	Lacking substance and soul , Crossroads comes up shorter than Britney 's cutoffs .
 7328	Cassavetes thinks he 's making Dog Day Afternoon with a cause , but all he 's done is to reduce everything he touches to a shrill , didactic cartoon .
-7329	Buries an interesting storyline about morality and the choices we make underneath such a mountain of clichÃ©s and borrowed images that it might more accurately be titled Mr. Chips off the Old Block .
+7329	Buries an interesting storyline about morality and the choices we make underneath such a mountain of clichés and borrowed images that it might more accurately be titled Mr. Chips off the Old Block .
 7330	Although sensitive to a fault , it 's often overwritten , with a surfeit of weighty revelations , flowery dialogue , and nostalgia for the past and roads not taken .
 7331	It 's so badly made on every level that I 'm actually having a hard time believing people were paid to make it .
-7332	Without non-stop techno or the existential overtones of a Kieslowski morality tale , MaelstrÃ¶m is just another Winter Sleepers .
+7332	Without non-stop techno or the existential overtones of a Kieslowski morality tale , Maelström is just another Winter Sleepers .
 7333	Nicks , seemingly uncertain what 's going to make people laugh , runs the gamut from stale parody to raunchy sex gags to formula romantic comedy .
 7334	` A ' for creativity but comes across more as a sketch for a full-length comedy .
 7335	If there 's one thing this world needs less of , it 's movies about college that are written and directed by people who could n't pass an entrance exam .
@@ -7376,7 +7376,7 @@ sentence_index	sentence
 7375	But is that knot from dramatic tension or a symptom of artistic malnutrition ?
 7376	Even with a green Mohawk and a sheet of fire-red flame tattoos covering his shoulder , however , Kilmer seems to be posing , rather than acting .
 7377	And that leaves a hole in the center of The Salton Sea .
-7378	There 's just no currency in deriding James Bond for being a clichÃ©d , doddering , misogynistic boy 's club .
+7378	There 's just no currency in deriding James Bond for being a clichéd , doddering , misogynistic boy 's club .
 7379	When the film ended , I felt tired and drained and wanted to lie on my own deathbed for a while .
 7380	Full of witless jokes , dealing in broad stereotypes and outrageously unbelievable scenarios , and saddled with a general air of misogyny
 7381	The film 's hackneyed message is not helped by the thin characterizations , nonexistent plot and pretentious visual style .
@@ -7439,11 +7439,11 @@ sentence_index	sentence
 7438	The film takes the materials of human tragedy and dresses them in lovely costumes , Southern California locations and star power .
 7439	It has its moments of swaggering camaraderie , but more often just feels generic , derivative and done to death .
 7440	Almost gags on its own gore .
-7441	How do you spell clichÃ© ?
+7441	How do you spell cliché ?
 7442	It 's sweet , harmless , dumb , occasionally funny and about as compelling as a fishing show .
 7443	The moviegoing equivalent of going to a dinner party and being forced to watch the host and hostess 's home video of their baby 's birth .
 7444	While -LRB- Hill -RRB- has learned new tricks , the tricks alone are not enough to salvage this lifeless boxing film .
-7445	In the real world , an actor this uncharismatically beautiful would have a rÃ©sumÃ© loaded with credits like `` Girl in Bar # 3 . ''
+7445	In the real world , an actor this uncharismatically beautiful would have a résumé loaded with credits like `` Girl in Bar # 3 . ''
 7446	Too much of it feels unfocused and underdeveloped .
 7447	Under 15 ?
 7448	A giggle a minute .
@@ -7650,7 +7650,7 @@ sentence_index	sentence
 7649	Intriguing documentary which is emotionally diluted by focusing on the story 's least interesting subject .
 7650	Feels haphazard , as if the writers mistakenly thought they could achieve an air of frantic spontaneity by simply tossing in lots of characters doing silly stuff and stirring the pot .
 7651	For each chuckle there are at least 10 complete misses , many coming from the amazingly lifelike Tara Reid , whose acting skills are comparable to a cardboard cutout .
-7652	In its own way , Joshua is as blasphemous and nonsensical as a Luis BuÃ±uel film without the latter 's attendant intelligence , poetry , passion , and genius .
+7652	In its own way , Joshua is as blasphemous and nonsensical as a Luis Buñuel film without the latter 's attendant intelligence , poetry , passion , and genius .
 7653	I 've always dreamed of attending Cannes , but after seeing this film , it 's not that big a deal .
 7654	The vintage is pure ' 87 , with a halfhearted twist on its cautionary message : Fatal Attraction = do n't have an affair with a nutjob ; Unfaithful = do n't if you 're married to one .
 7655	A workshop mentality prevails .
@@ -7863,7 +7863,7 @@ sentence_index	sentence
 7862	Nothing in Waking Up in Reno ever inspired me to think of its inhabitants as anything more than markers in a screenplay .
 7863	I 'm just too bored to care .
 7864	Irwin is a man with enough charisma and audacity to carry a dozen films , but this particular result is ultimately held back from being something greater .
-7865	Not a stereotype is omitted nor a clichÃ© left unsaid .
+7865	Not a stereotype is omitted nor a cliché left unsaid .
 7866	As befits its title , this PG-13-rated piffle is ultimately as threatening as the Snuggle Fabric Softener bear .
 7867	Attempts by this ensemble film to impart a message are so heavy-handed that they instead pummel the audience .
 7868	It all feels like a Monty Python sketch gone horribly wrong .
@@ -8037,7 +8037,7 @@ sentence_index	sentence
 8036	It 's the kind of movie that ends up festooning U.S. art house screens for no reason other than the fact that it 's in French -LRB- well , mostly -RRB- with English subtitles and is magically ` significant ' because of that .
 8037	This miserable excuse of a movie runs on empty , believing Flatbush machismo will get it through .
 8038	Expect to be reminded of other , better films , especially Seven , which director William Malone slavishly copies .
-8039	Nair stuffs the film with dancing , henna , ornamentation , and group song , but her narrative clichÃ©s and telegraphed episodes smell of old soap opera .
+8039	Nair stuffs the film with dancing , henna , ornamentation , and group song , but her narrative clichés and telegraphed episodes smell of old soap opera .
 8040	It 's getting harder and harder to ignore the fact that Hollywood is n't laughing with us , folks .
 8041	It 's laughing at us .
 8042	Might have been better off as a documentary , with less of Mr. Eyre 's uninspired dramatics and more of his sense of observation and outrage .
@@ -8126,7 +8126,7 @@ sentence_index	sentence
 8125	Characters wander into predictably treacherous situations even though they should know better .
 8126	There 's plenty of style in Guillermo Del Toro 's sequel to the 1998 hit but why do we need 117 minutes to tell a tale that simply ca n't sustain more than 90 minutes .
 8127	-LRB- I -RRB- f you 've been to more than one indie flick in your life , chances are you 've already seen this kind of thing .
-8128	First-time director JoÃ£o Pedro Rodrigues ' unwillingness to define his hero 's background or motivations becomes more and more frustrating as the film goes on .
+8128	First-time director João Pedro Rodrigues ' unwillingness to define his hero 's background or motivations becomes more and more frustrating as the film goes on .
 8129	No reason for anyone to invest their hard-earned bucks into a movie which obviously did n't invest much into itself either .
 8130	A strong first quarter , slightly less so second quarter , and average second half .
 8131	A boring , wincingly cute and nauseatingly politically correct cartoon guaranteed to drive anyone much over age 4 screaming from the theater .
@@ -8291,7 +8291,7 @@ sentence_index	sentence
 8290	This is n't just the CliffsNotes version of Nicholas Nickleby , it 's the CliffsNotes with pages missing .
 8291	Considering the harsh locations and demanding stunts , this must have been a difficult shoot , but the movie proves rough going for the audience as well .
 8292	Better at putting you to sleep than a sound machine .
-8293	So clichÃ©d that , at one point , they literally upset an apple cart .
+8293	So clichéd that , at one point , they literally upset an apple cart .
 8294	It 's a decent glimpse into a time period , and an outcast , that is no longer accessible , but it does n't necessarily shed more light on its subject than the popular predecessor .
 8295	It might be the first sci-fi comedy that could benefit from a Three 's Company-style laugh track .
 8296	When the plot kicks in , the film loses credibility .
@@ -8695,7 +8695,7 @@ sentence_index	sentence
 8694	Say this for the soundtrack , it drowns out the lousy dialogue .
 8695	After seeing SWEPT AWAY , I feel sorry for Madonna .
 8696	Instead of kicking off the intrigue and suspense and mystery of the whole thing , Hart 's War , like the St. Louis Rams in the Super Bowl , waits until after halftime to get started .
-8697	A gob of drivel so sickly sweet , even the eager consumers of Moore 's pasteurized ditties will retch it up like rancid crÃ¨me brÃ»lÃ©e .
+8697	A gob of drivel so sickly sweet , even the eager consumers of Moore 's pasteurized ditties will retch it up like rancid crème brûlée .
 8698	Maudlin and melodramatic we expected .
 8699	Boring we did n't .
 8700	Never quite transcends jokester status ... and the punchline does n't live up to Barry 's dead-eyed , perfectly chilled delivery .
@@ -9011,7 +9011,7 @@ sentence_index	sentence
 9010	Schindler 's List it ai n't .
 9011	A cinematic sleeping pill of impressive potency .
 9012	It 's an awfully derivative story .
-9013	The movie barely makes sense , with its unbelievable naÃ¯vetÃ© and arbitrary flashbacks .
+9013	The movie barely makes sense , with its unbelievable naïveté and arbitrary flashbacks .
 9014	It 's an earnest debut full of heartfelt performances , but is ultimately let down by a story that is all too predictable .
 9015	About as cutting-edge as Pet Rock : The Movie .
 9016	With generic sets and B-grade special effects , Jason is about as convincing on the sci-fi front as TV 's defunct Cleopatra 2525 .
@@ -9040,7 +9040,7 @@ sentence_index	sentence
 9039	` Abandon all hope , ye who enter here ' ... you should definitely let Dante 's gloomy words be your guide .
 9040	What begins as a seemingly brainless , bubbly romantic comedy becomes a cliche-drenched melodrama by mid-film and , by film 's end , a feminist action fantasy .
 9041	A grim , flat and boring werewolf movie that refuses to develop an energy level .
-9042	Birot 's directorial debut -LRB- she co-wrote the script with Christophe HonorÃ© -RRB- is n't so much bad as it is bland .
+9042	Birot 's directorial debut -LRB- she co-wrote the script with Christophe Honoré -RRB- is n't so much bad as it is bland .
 9043	Watching the film is like reading a Times Portrait of Grief that keeps shifting focus to the journalist who wrote it .
 9044	Enough similarities to Gymkata and Howie Long 's Firestorm that my fingernails instinctively crawled towards my long-suffering eyeballs .
 9045	Succeeds in providing a disquiet world the long-dreaded completion of the Police Academy series .
@@ -9103,7 +9103,7 @@ sentence_index	sentence
 9102	Where their heads were is anyone 's guess .
 9103	Call me a cynic , but there 's something awfully deadly about any movie with a life-affirming message .
 9104	A gratingly unfunny groaner littered with zero-dimensional , unlikable characters and hackneyed , threadbare comic setups .
-9105	Got some good , organic character work , lots of obvious political insights and little room for engaging , imaginative filmmaking in its nearly 2Â 1\/2 - hour , dissipated length .
+9105	Got some good , organic character work , lots of obvious political insights and little room for engaging , imaginative filmmaking in its nearly 2 1\/2 - hour , dissipated length .
 9106	A painfully slow cliche-ridden film filled with more holes than Clyde Barrow 's car .
 9107	Like leafing through an album of photos accompanied by the sketchiest of captions .
 9108	I guess it just goes to show that if you give a filmmaker an unlimited amount of phony blood , nothing good can happen .
@@ -9230,7 +9230,7 @@ sentence_index	sentence
 9229	Director Jay Russell stomps in hobnail boots over Natalie Babbitt 's gentle , endearing 1975 children 's novel .
 9230	Benigni 's Pinocchio is extremely straight and mind-numbingly stilted , its episodic pacing keeping the film from developing any storytelling flow .
 9231	The troubling thing about Clockstoppers is that it does n't make any sense .
-9232	With its paint fights , motorized scooter chases and dewy-eyed sentiment , it 's a pretty listless collection of kid-movie clichÃ©s .
+9232	With its paint fights , motorized scooter chases and dewy-eyed sentiment , it 's a pretty listless collection of kid-movie clichés .
 9233	Mostly the film is just hectic and homiletic : two parts exhausting Men in Black mayhem to one part family values .
 9234	Kicks off with an inauspicious premise , mopes through a dreary tract of virtually plotless meanderings and then ends with a whimper .
 9235	A rote exercise in both animation and storytelling .
@@ -9415,7 +9415,7 @@ sentence_index	sentence
 9414	Skip this turd and pick your nose instead because you 're sure to get more out of the latter experience .
 9415	What can one say about a balding 50-year-old actor playing an innocent boy carved from a log ?
 9416	Trailer trash cinema so uncool the only thing missing is the `` Gadzooks ! ''
-9417	Her film is like a beautiful food entrÃ©e that is n't heated properly , so that it ends up a bit cold and relatively flavorless .
+9417	Her film is like a beautiful food entrée that is n't heated properly , so that it ends up a bit cold and relatively flavorless .
 9418	Like the world of his film , Hartley created a monster but did n't know how to handle it .
 9419	No new plot conceptions or environmental changes , just different bodies for sharp objects to rip through .
 9420	Needs more impressionistic cinematography and exhilarating point-of-view shots and fewer slow-motion ` grandeur ' shots and quick-cut edits that often detract from the athleticism .
@@ -9464,7 +9464,7 @@ sentence_index	sentence
 9463	-LRB- Taylor -RRB- takes us on a ride that 's consistently surprising , easy to watch -- but , oh , so dumb .
 9464	It 's difficult for a longtime admirer of his work to not be swept up in Invincible and overlook its drawbacks .
 9465	Lazily directed by Charles Stone III ... from a leaden script by Matthew Cirulnick and novelist Thulani Davis .
-9466	Though Jones and Snipes are enthralling , the movie bogs down in rhetoric and clichÃ© .
+9466	Though Jones and Snipes are enthralling , the movie bogs down in rhetoric and cliché .
 9467	The most remarkable -LRB- and frustrating -RRB- thing about World Traveler , which opens today in Manhattan , is that its protagonist , after being an object of intense scrutiny for 104 minutes , remains a complete blank .
 9468	An artsploitation movie with too much exploitation and too little art .
 9469	The pacing is often way off and there are too many bona fide groaners among too few laughs .
@@ -9490,7 +9490,7 @@ sentence_index	sentence
 9489	Kim Ki-Deok seems to have in mind an -LRB- emotionally at least -RRB- adolescent audience demanding regular shocks and bouts of barely defensible sexual violence to keep it interested .
 9490	A sterling film - a cross between Boys Do n't Cry , Deliverance , and Ode to Billy Joe - lies somewhere in the story of Matthew Shepard , but that film is yet to be made .
 9491	After sitting through this sloppy , made-for-movie comedy special , it makes me wonder if Lawrence hates criticism so much that he refuses to evaluate his own work .
-9492	Contrived pastiche of caper clichÃ©s .
+9492	Contrived pastiche of caper clichés .
 9493	Many shallower movies these days seem too long , but this one is egregiously short .
 9494	Just a Kiss wants desperately to come off as a fanciful film about the typical problems of average people .
 9495	But it is set in a world that is very , very far from the one most of us inhabit .
@@ -9530,7 +9530,7 @@ sentence_index	sentence
 9529	While certain cues , like the happy music , suggest that this movie is supposed to warm our hearts , Jeong-Hyang Lee 's film is just as likely to blacken that organ with cold vengefulness .
 9530	The script , the gags , the characters are all direct-to-video stuff , and that 's where this film should have remained .
 9531	A thriller without thrills and a mystery devoid of urgent questions .
-9532	A collage of clichÃ©s and a dim echo of allusions to other films .
+9532	A collage of clichés and a dim echo of allusions to other films .
 9533	The film is hampered by its predictable plot and paper-thin supporting characters .
 9534	Jonah is only so-so ... the addition of a biblical message will either improve the film for you , or it will lessen it .
 9535	An excruciating demonstration of the unsalvageability of a movie saddled with an amateurish screenplay .
@@ -9557,7 +9557,7 @@ sentence_index	sentence
 9556	It 's exactly the kind of movie Toback 's detractors always accuse him of making .
 9557	With the dog days of August upon us , think of this dog of a movie as the cinematic equivalent of high humidity .
 9558	Less about Shakespeare than the spawn of fools who saw Quentin Tarantino 's handful of raucous gangster films and branched out into their own pseudo-witty copycat interpretations .
-9559	The film is like sitting in a downtown cafÃ© , overhearing a bunch of typical late-twenty-somethings natter on about nothing , and desperately wishing you could change tables .
+9559	The film is like sitting in a downtown café , overhearing a bunch of typical late-twenty-somethings natter on about nothing , and desperately wishing you could change tables .
 9560	This rather unfocused , all-over-the-map movie would be a lot better if it pared down its plots and characters to a few rather than dozens ... or if it were subtler ... or if it had a sense of humor .
 9561	Takes a clunky TV-movie approach to detailing a chapter in the life of the celebrated Irish playwright , poet and drinker .
 9562	Not only does the thoroughly formulaic film represent totally exemplify middle-of-the-road mainstream , it also represents glossy Hollywood at its laziest .
@@ -9616,7 +9616,7 @@ sentence_index	sentence
 9615	While the transgressive trappings -LRB- especially the frank sex scenes -RRB- ensure that the film is never dull , Rodrigues 's beast-within metaphor is ultimately rather silly and overwrought , making the ambiguous ending seem goofy rather than provocative .
 9616	The satire is unfocused , while the story goes nowhere .
 9617	They threw loads of money at an idea that should 've been so much more even if it was only made for teenage boys and wrestling fans .
-9618	It 's mired in a shabby script that piles layer upon layer of Action Man clichÃ© atop wooden dialogue and a shifting tone that falls far short of the peculiarly moral amorality of -LRB- Woo 's -RRB- best work .
+9618	It 's mired in a shabby script that piles layer upon layer of Action Man cliché atop wooden dialogue and a shifting tone that falls far short of the peculiarly moral amorality of -LRB- Woo 's -RRB- best work .
 9619	Reyes ' directorial debut has good things to offer , but ultimately it 's undone by a sloppy script
 9620	If you 're over 25 , have an IQ over 90 , and have a driver 's license , you should be able to find better entertainment .
 9621	The darker elements of misogyny and unprovoked violence suffocate the illumination created by the two daughters and the sparse instances of humor meant to shine through the gloomy film noir veil .
@@ -9774,7 +9774,7 @@ sentence_index	sentence
 9773	The slapstick is labored , and the bigger setpieces flat .
 9774	This is the kind of movie where people who have never picked a lock do so easily after a few tries and become expert fighters after a few weeks .
 9775	The problem with the mayhem in Formula 51 is not that it 's offensive , but that it 's boring .
-9776	Much of the digitally altered footage appears jagged , as if filmed directly from a television monitor , while the extensive use of stock footage quickly becomes a tiresome clichÃ© .
+9776	Much of the digitally altered footage appears jagged , as if filmed directly from a television monitor , while the extensive use of stock footage quickly becomes a tiresome cliché .
 9777	the film never rises above a conventional , two dimension tale
 9778	Mark Wahlberg ... may look classy in a '60s - homage pokepie hat , but as a character he 's dry , dry , dry .
 9779	Told in scattered fashion , the movie only intermittently lives up to the stories and faces and music of the men who are its subject .
@@ -9802,7 +9802,7 @@ sentence_index	sentence
 9801	Carrying this wafer-thin movie on his nimble shoulders , Chan wades through putrid writing , direction and timing with a smile that says , ` If I stay positive , maybe I can channel one of my greatest pictures , Drunken Master . '
 9802	So putrid it is not worth the price of the match that should be used to burn every print of the film .
 9803	In the end , the movie bogs down in insignificance , saying nothing about Kennedy 's assassination and revealing nothing about the pathology it pretends to investigate .
-9804	Starts out ballsy and stylish but fails to keep it up and settles into clichÃ©s .
+9804	Starts out ballsy and stylish but fails to keep it up and settles into clichés .
 9805	Sometimes makes less sense than the Bruckheimeresque American action flicks it emulates .
 9806	One of those films where the characters inhabit that special annex of hell where adults behave like kids , children behave like adults and everyone screams at the top of their lungs no matter what the situation .
 9807	There 's only one way to kill Michael Myers for good : stop buying tickets to these movies .
@@ -9810,7 +9810,7 @@ sentence_index	sentence
 9809	The movie is about as humorous as watching your favorite pet get buried alive .
 9810	Resident Evil is what comes from taking John Carpenter 's Ghosts of Mars and eliminating the beheadings .
 9811	In other words , about as bad a film you 're likely to see all year .
-9812	Five screenwriters are credited with the clichÃ©-laden screenplay ; it seems as if each watered down the version of the one before .
+9812	Five screenwriters are credited with the cliché-laden screenplay ; it seems as if each watered down the version of the one before .
 9813	The whole thing comes off like a particularly amateurish episode of Bewitched that takes place during Spring Break .
 9814	Well made but uninvolving , Bloodwork is n't a terrible movie , just a stultifyingly obvious one -- an unrewarding collar for a murder mystery .
 9815	So we got Ten Little Indians meets Friday the 13th by way of Clean and Sober , filmed on the set of Carpenter 's The Thing and loaded with actors you 're most likely to find on the next inevitable incarnation of The Love Boat .
@@ -9907,7 +9907,7 @@ sentence_index	sentence
 9906	Comes off like a bad imitation of the Bard .
 9907	What 's missing in Murder by Numbers is any real psychological grounding for the teens ' deviant behaviour .
 9908	Being latently gay and liking to read are hardly enough .
-9909	An uninspired preachy and clichÃ©d war film .
+9909	An uninspired preachy and clichéd war film .
 9910	Horrendously amateurish filmmaking that is plainly dull and visually ugly when it is n't incomprehensible .
 9911	A movie that harps on media-constructed ` issues ' like whether compromise is the death of self ... this Orgasm -LRB- wo n't be an -RRB- exceedingly memorable one for most people .
 9912	Slackers ' jokey approach to college education is disappointingly simplistic -- the film 's biggest problem -- and there are no unforgettably stupid stunts or uproariously rude lines of dialogue to remember it by .
@@ -9920,7 +9920,7 @@ sentence_index	sentence
 9919	The film is weighed down by supporting characters who are either too goodly , wise and knowing or downright comically evil .
 9920	The film is so bad it does n't improve upon the experience of staring at a blank screen .
 9921	Sheridan 's take on the author 's schoolboy memoir ... is a rather toothless take on a hard young life .
-9922	It jumps around with little logic or continuity , presenting backstage bytes of information that never amount to a satisfying complete picture of this particular , anciently demanding mÃ©tier .
+9922	It jumps around with little logic or continuity , presenting backstage bytes of information that never amount to a satisfying complete picture of this particular , anciently demanding métier .
 9923	How I Killed My Father is one of those art house films that makes you feel like you 're watching an iceberg melt -- only it never melts .
 9924	When it comes to the battle of Hollywood vs. Woo , it looks like Woo 's a P.O.W.
 9925	There are a few chuckles , but not a single gag sequence that really scores , and the stars seem to be in two different movies .
@@ -9966,7 +9966,7 @@ sentence_index	sentence
 9965	The kind of film that leaves you scratching your head in amazement over the fact that so many talented people could participate in such an ill-advised and poorly executed idea .
 9966	Nicks refuses to let Slackers be seen as just another teen movie , which means he can be forgiven for frequently pandering to fans of the gross-out comedy .
 9967	Nothing about the film -- with the possible exception of Elizabeth Hurley 's breasts -- is authentic .
-9968	Amid the clichÃ© and foreshadowing , Cage manages a degree of casual realism ... that is routinely dynamited by Blethyn .
+9968	Amid the cliché and foreshadowing , Cage manages a degree of casual realism ... that is routinely dynamited by Blethyn .
 9969	Mostly , Shafer and co-writer Gregory Hinton lack a strong-minded viewpoint , or a sense of humor .
 9970	No cliche escapes the perfervid treatment of gang warfare called ces Wild .
 9971	Eddie Murphy and Owen Wilson have a cute partnership in I Spy , but the movie around them is so often nearly nothing that their charm does n't do a load of good .
@@ -10113,7 +10113,7 @@ sentence_index	sentence
 10112	It 's mindless junk like this that makes you appreciate original romantic comedies like Punch-Drunk Love .
 10113	The movie is like a year late for tapping into our reality tv obsession , and even tardier for exploiting the novelty of the `` webcast . ''
 10114	tale will be all too familiar for anyone who 's seen George Roy Hill 's 1973 film , `` The Sting . ''
-10115	Gets the look and the period trappings right , but it otherwise drowns in a sea of visual and verbal clichÃ©s .
+10115	Gets the look and the period trappings right , but it otherwise drowns in a sea of visual and verbal clichés .
 10116	It 's hard to quibble with a flick boasting this many genuine cackles , but Notorious C.H.O. still feels like a promising work-in-progress .
 10117	Anyone who wants to start writing screenplays can just follow the same blueprint from hundreds of other films , sell it to the highest bidder and walk away without anyone truly knowing your identity .
 10118	The problem with The Bread , My Sweet is that it 's far too sentimental .
@@ -10151,7 +10151,7 @@ sentence_index	sentence
 10150	Or else a doggie winks .
 10151	A ` Girls Gone Wild ' video for the boho art-house crowd , The Burning Sensation is n't a definitive counter-cultural document -- its makers are n't removed and inquisitive enough for that .
 10152	As original and insightful as last week 's episode of Behind the Music .
-10153	Plays like John Le CarrÃ© with a couple of burnt-out cylinders .
+10153	Plays like John Le Carré with a couple of burnt-out cylinders .
 10154	You may be galled that you 've wasted nearly two hours of your own precious life with this silly little puddle of a movie .
 10155	It 's neither as sappy as Big Daddy nor as anarchic as Happy Gilmore or The Waterboy , but it has its moments .
 10156	Despite the surface attractions -- Conrad L. Hall 's cinematography will likely be nominated for an Oscar next year -- there 's something impressive and yet lacking about everything .
@@ -10166,7 +10166,7 @@ sentence_index	sentence
 10165	What they 're doing is a matter of plumbing arrangements and mind games , of no erotic or sensuous charge .
 10166	But that they are doing it is thought-provoking .
 10167	The acting is just fine , but there 's not enough substance here to sustain interest for the full 90 minutes , especially with the weak payoff .
-10168	After Collateral Damage , you might imagine that most every aggrieved father clichÃ© has been unturned .
+10168	After Collateral Damage , you might imagine that most every aggrieved father cliché has been unturned .
 10169	But no. .
 10170	Ultimately the , yes , snail-like pacing and lack of thematic resonance make the film more silly than scary , like some sort of Martha Stewart decorating program run amok .
 10171	Releasing a film with the word ` dog ' in its title in January lends itself to easy jokes and insults , and Snow Dogs deserves every single one of them .
@@ -10206,7 +10206,7 @@ sentence_index	sentence
 10205	The Sum of All Fears is remarkably fuddled about motives and context , which drains it of the dramatic substance that would shake us in our boots -LRB- or cinema seats -RRB- .
 10206	The movie spends more time with Schneider than with newcomer McAdams , even though her performance is more interesting -LRB- and funnier -RRB- than his .
 10207	This low-rent -- and even lower-wit -- rip-off of the Farrelly brothers ' oeuvre gets way too mushy -- and in a relatively short amount of time .
-10208	It recycles every clichÃ© about gays in what is essentially an extended soap opera .
+10208	It recycles every cliché about gays in what is essentially an extended soap opera .
 10209	I 'm all for the mentally challenged getting their fair shot in the movie business , but surely it does n't have to be as a collection of keening and self-mutilating sideshow geeks .
 10210	May offend viewers not amused by the sick sense of humor .
 10211	Many of Benjamins ' elements feel like they 've been patched in from an episode of Miami Vice .
@@ -10382,7 +10382,7 @@ sentence_index	sentence
 10381	Has its moments , but it 's pretty far from a treasure .
 10382	What more can be expected from a college comedy that 's target audience has n't graduated from junior high school ?
 10383	Collateral Damage offers formula payback and the Big Payoff , but the explosions tend to simply hit their marks , pyro-correctly .
-10384	The plan to make Enough into ` an inspiring tale of survival wrapped in the heart-pounding suspense of a stylish psychological thriller ' has flopped as surely as a soufflÃ© gone wrong .
+10384	The plan to make Enough into ` an inspiring tale of survival wrapped in the heart-pounding suspense of a stylish psychological thriller ' has flopped as surely as a soufflé gone wrong .
 10385	Instead of letting the laughs come as they may , Lawrence unleashes his trademark misogyny -- er , comedy -- like a human volcano or an overflowing septic tank , take your pick .
 10386	You know that ten bucks you 'd spend on a ticket ?
 10387	Just send it to Cranky .
@@ -10451,7 +10451,7 @@ sentence_index	sentence
 10450	... passable enough for a shoot-out in the o.k. court house of life type of flick .
 10451	Strictly middle of the road .
 10452	Although purportedly a study in modern alienation , it 's really little more than a particularly slanted , gay s\/m fantasy , enervating and deadeningly drawn-out .
-10453	After the first 10 minutes , which is worth seeing , the movie sinks into an abyss of clichÃ©s , depression and bad alternative music .
+10453	After the first 10 minutes , which is worth seeing , the movie sinks into an abyss of clichés , depression and bad alternative music .
 10454	No one can doubt the filmmakers ' motives , but The Guys still feels counterproductive .
 10455	A very slow , uneventful ride around a pretty tattered old carousel .
 10456	With little visible talent and no energy , Colin Hanks is in bad need of major acting lessons and maybe a little coffee .
@@ -10466,7 +10466,7 @@ sentence_index	sentence
 10465	Disney again ransacks its archives for a quick-buck sequel .
 10466	Coarse , cliched and clunky , this trifling romantic comedy in which opposites attract for no better reason than that the screenplay demands it squanders the charms of stars Hugh Grant and Sandra Bullock .
 10467	Anyone who suffers through this film deserves , at the very least , a big box of consolation candy .
-10468	How much you are moved by the emotional tumult of -LRB- FranÃ§ois and MichÃ¨le 's -RRB- relationship depends a lot on how interesting and likable you find them .
+10468	How much you are moved by the emotional tumult of -LRB- François and Michèle 's -RRB- relationship depends a lot on how interesting and likable you find them .
 10469	They presume their audience wo n't sit still for a sociology lesson , however entertainingly presented , so they trot out the conventional science-fiction elements of bug-eyed monsters and futuristic women in skimpy clothes .
 10470	Collapses after 30 minutes into a slap-happy series of adolescent violence .
 10471	The following things are not at all entertaining : The bad sound , the lack of climax and , worst of all , watching Seinfeld -LRB- who is also one of the film 's producers -RRB- do everything he can to look like a good guy .
@@ -10481,7 +10481,7 @@ sentence_index	sentence
 10480	A distinctly minor effort that will be seen to better advantage on cable , especially considering its barely feature-length running time of one hour .
 10481	Most of the movie is so deadly dull that watching the proverbial paint dry would be a welcome improvement .
 10482	In the end , Tuck Everlasting falls victim to that everlasting conundrum experienced by every human who ever lived : too much to do , too little time to do it in .
-10483	Rather less than the sum of its underventilated pÃ¨re-fils confrontations .
+10483	Rather less than the sum of its underventilated père-fils confrontations .
 10484	McKay shows crushingly little curiosity about , or is ill-equipped to examine , the interior lives of the characters in his film , much less incorporate them into his narrative .
 10485	Plays like a series of vignettes -- clips of a film that are still looking for a common through-line .
 10486	New Yorkers always seem to find the oddest places to dwell ...
@@ -10544,7 +10544,7 @@ sentence_index	sentence
 10543	How about starting with a more original story instead of just slapping extreme humor and gross-out gags on top of the same old crap ?
 10544	The problem is that for the most part , the film is deadly dull .
 10545	Handled correctly , Wilde 's play is a masterpiece of elegant wit and artifice .
-10546	Here , alas , it collapses like an overcooked soufflÃ© .
+10546	Here , alas , it collapses like an overcooked soufflé .
 10547	`` Sorority Boys '' was funnier , and that movie was pretty bad .
 10548	A bizarre piece of work , with premise and dialogue at the level of kids ' television and plot threads as morose as teen pregnancy , rape and suspected murder
 10549	Paul Bettany is good at being the ultra-violent gangster wannabe , but the movie is certainly not number 1 .
@@ -10713,7 +10713,7 @@ sentence_index	sentence
 10712	I 'm sorry to say that this should seal the deal - Arnold is not , nor will he be , back .
 10713	The story of Trouble Every Day ... is so sketchy it amounts to little more than preliminary notes for a science-fiction horror film , and the movie 's fragmentary narrative style makes piecing the story together frustrating difficult .
 10714	A Movie to Forget
-10715	For all of its insights into the dream world of teen life , and its electronic expression through cyber culture , the film gives no quarter to anyone seeking to pull a cohesive story out of its 2Â 1\/2 - hour running time .
+10715	For all of its insights into the dream world of teen life , and its electronic expression through cyber culture , the film gives no quarter to anyone seeking to pull a cohesive story out of its 2 1\/2 - hour running time .
 10716	Enough is not a bad movie , just mediocre .
 10717	The performances are so overstated , the effect comes off as self-parody .
 10718	It looks good , but it is essentially empty .
@@ -10726,7 +10726,7 @@ sentence_index	sentence
 10725	Tennessee Williams by way of Oprah 's Book Club .
 10726	So verbally flatfooted and so emotionally predictable or bland that it plays like the standard made-for-TV movie .
 10727	The entire point of a shaggy dog story , of course , is that it goes nowhere , and this is classic nowheresville in every sense .
-10728	Stale and clichÃ©d to a fault .
+10728	Stale and clichéd to a fault .
 10729	This film is too busy hitting all of its assigned marks to take on any life of its own .
 10730	Watching junk like this induces a kind of abstract guilt , as if you were paying dues for good books unread , fine music never heard .
 10731	The script feels as if it started to explore the obvious voyeuristic potential of ` hypertime ' but then backed off when the producers saw the grosses for Spy Kids .
@@ -10819,7 +10819,7 @@ sentence_index	sentence
 10818	The film has the thrown-together feel of a summer-camp talent show : hastily written , underrehearsed , arbitrarily plotted and filled with crude humor and vulgar innuendo .
 10819	The last three narcissists left on earth compete for each others ' affections .
 10820	A clash between the artificial structure of the story and the more contemporary , naturalistic tone of the film ...
-10821	The movie 's messages are quite admirable , but the story is just too clichÃ©d and too often strains credulity .
+10821	The movie 's messages are quite admirable , but the story is just too clichéd and too often strains credulity .
 10822	What we have here is n't a disaster , exactly , but a very handsomely produced let-down .
 10823	The script was reportedly rewritten a dozen times -- either 11 times too many or else too few .
 10824	A shoddy male hip hop fantasy filled with guns , expensive cars , lots of naked women and Rocawear clothing .
@@ -10857,7 +10857,7 @@ sentence_index	sentence
 10856	Get out your pooper-scoopers .
 10857	While the material is slight , the movie is better than you might think .
 10858	It 's definitely not made for kids or their parents , for that matter , and I think even fans of Sandler 's comic taste may find it uninteresting .
-10859	Sheridan seems terrified of the book 's irreverent energy , and scotches most of its Ã©lan , humor , bile , and irony .
+10859	Sheridan seems terrified of the book 's irreverent energy , and scotches most of its élan , humor , bile , and irony .
 10860	More busy than exciting , more frantic than involving , more chaotic than entertaining .
 10861	There are more shots of children smiling for the camera than typical documentary footage which hurts the overall impact of the film .
 10862	It 's makes a better travelogue than movie .
@@ -10927,7 +10927,7 @@ sentence_index	sentence
 10926	A film that will probably please people already fascinated by Behan but leave everyone else yawning with admiration .
 10927	Davis the performer is plenty fetching enough , but she needs to shake up the mix , and work in something that does n't feel like a half-baked stand-up routine .
 10928	The densest distillation of Roberts ' movies ever made .
-10929	Ultimately , the film never recovers from the clumsy clichÃ© of the ugly American abroad , and the too-frosty exterior Ms. Paltrow employs to authenticate her British persona is another liability .
+10929	Ultimately , the film never recovers from the clumsy cliché of the ugly American abroad , and the too-frosty exterior Ms. Paltrow employs to authenticate her British persona is another liability .
 10930	A handsome but unfulfilling suspense drama more suited to a quiet evening on PBS than a night out at an AMC .
 10931	Tom Green and an Ivy League college should never appear together on a marquee , especially when the payoff is an unschooled comedy like Stealing Harvard , which fails to keep 80 minutes from seeming like 800 .
 10932	-LRB- It -RRB- highlights not so much the crime lord 's messianic bent , but Spacey 's .
@@ -11142,7 +11142,7 @@ sentence_index	sentence
 11141	This hastily mounted production exists only to capitalize on Hopkins ' inclination to play Hannibal Lecter again , even though Harris has no immediate inclination to provide a fourth book .
 11142	Death to Smoochy tells a moldy-oldie , not-nearly - as-nasty - as-it - thinks-it-is joke .
 11143	Over and over again .
-11144	The threat implied in the title PokÃ©mon 4ever is terrifying -- like locusts in a horde these things will keep coming .
+11144	The threat implied in the title Pokémon 4ever is terrifying -- like locusts in a horde these things will keep coming .
 11145	The film never gets over its own investment in conventional arrangements , in terms of love , age , gender , race , and class .
 11146	To call this film a lump of coal would only be to flatter it .
 11147	Entertainment more disposable than Hanna-Barbera 's half-hour cartoons ever were .
@@ -11220,7 +11220,7 @@ sentence_index	sentence
 11219	Bears is even worse than I imagined a movie ever could be .
 11220	When you find yourself rooting for the monsters in a horror movie , you know the picture is in trouble .
 11221	This is very much of a mixed bag , with enough negatives to outweigh the positives .
-11222	Marinated in clichÃ©s and mawkish dialogue .
+11222	Marinated in clichés and mawkish dialogue .
 11223	Whether it 's the worst movie of 2002 , I ca n't say for sure : Memories of Rollerball have faded , and I skipped Country Bears .
 11224	But this new jangle of noise , mayhem and stupidity must be a serious contender for the title .
 11225	-LRB- A -RRB- boldly stroked , luridly coloured , uni-dimensional nonsense machine that strokes the eyeballs while it evaporates like so much crypt mist in the brain .
@@ -11262,7 +11262,7 @@ sentence_index	sentence
 11261	Certainly not a good movie , but it was n't horrible either .
 11262	Although it starts off so bad that you feel like running out screaming , it eventually works its way up to merely bad rather than painfully awful .
 11263	The result is so tame that even slightly wised-up kids would quickly change the channel .
-11264	It appears to have been modeled on the worst revenge-of-the-nerds clichÃ©s the filmmakers could dredge up .
+11264	It appears to have been modeled on the worst revenge-of-the-nerds clichés the filmmakers could dredge up .
 11265	Nothing but an episode of Smackdown !
 11266	in period costume and with a bigger budget .
 11267	It takes you somewhere you 're not likely to have seen before , but beneath the exotic surface -LRB- and exotic dancing -RRB- it 's surprisingly old-fashioned .
@@ -11270,7 +11270,7 @@ sentence_index	sentence
 11269	It should be interesting , it should be poignant , it turns out to be affected and boring .
 11270	A good-looking but ultimately pointless political thriller with plenty of action and almost no substance .
 11271	A tired , predictable , bordering on offensive , waste of time , money and celluloid .
-11272	If Hill is n't quite his generation 's Don Siegel -LRB- or Robert Aldrich -RRB- , it 's because there 's no discernible feeling beneath the chest hair ; it 's all bluster and clichÃ© .
+11272	If Hill is n't quite his generation 's Don Siegel -LRB- or Robert Aldrich -RRB- , it 's because there 's no discernible feeling beneath the chest hair ; it 's all bluster and cliché .
 11273	Stealing Harvard will dip into your wallet , swipe 90 minutes of your time , and offer you precisely this in recompense : A few early laughs scattered around a plot as thin as it is repetitious .
 11274	This is an insultingly inept and artificial examination of grief and its impacts upon the relationships of the survivors .
 11275	Does anyone much think the central story of Brendan Behan is that he was a bisexual sweetheart before he took to drink ?
@@ -11334,7 +11334,7 @@ sentence_index	sentence
 11333	Little more than a stylish exercise in revisionism whose point ... is no doubt true , but serves as a rather thin moral to such a knowing fable .
 11334	The nonstop artifice ultimately proves tiresome , with the surface histrionics failing to compensate for the paper-thin characterizations and facile situations .
 11335	This is a monumental achievement in practically every facet of inept filmmaking : joyless , idiotic , annoying , heavy-handed , visually atrocious , and often downright creepy .
-11336	This off-putting French romantic comedy is sure to test severely the indulgence of fans of AmÃ©lie .
+11336	This off-putting French romantic comedy is sure to test severely the indulgence of fans of Amélie .
 11337	overburdened with complicated plotting and banal dialogue
 11338	Ensemble movies , like soap operas , depend on empathy .
 11339	If there ai n't none , you have a problem .
@@ -11379,7 +11379,7 @@ sentence_index	sentence
 11378	A boring masquerade ball where normally good actors , even Kingsley , are made to look bad .
 11379	All the Queen 's Men is a throwback war movie that fails on so many levels , it should pay reparations to viewers .
 11380	The filmmakers keep pushing the jokes at the expense of character until things fall apart .
-11381	Rather than real figures , Elling and Kjell Bjarne become symbolic characters whose actions are supposed to relate something about the naÃ¯f 's encounter with the world .
+11381	Rather than real figures , Elling and Kjell Bjarne become symbolic characters whose actions are supposed to relate something about the naïf 's encounter with the world .
 11382	Mariah Carey gives us another peek at some of the magic we saw in Glitter here in Wisegirls .
 11383	It 's all arty and jazzy and people sit and stare and turn away from one another instead of talking and it 's all about the silences and if you 're into that , have at it .
 11384	I suspect that you 'll be as bored watching Morvern Callar as the characters are in it .
@@ -11662,7 +11662,7 @@ sentence_index	sentence
 11661	Reassuring , retro uplifter .
 11662	Visually captivating .
 11663	Lavishly , exhilaratingly tasteless .
-11664	TouchÃ© !
+11664	Touché !
 11665	An impressive hybrid .
 11666	A tasty masala .
 11667	Refreshing .
