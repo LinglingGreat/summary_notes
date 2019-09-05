@@ -315,66 +315,105 @@ plt.show()
 
 ### 2.8 奇异值分解
 
-**SVD** is another way of factorizing a matrix to give **singular values** and **singular vectors**. However, it is more generally applicable than eigendecomposition, e.g. eigendecomposition is not defined for a non-square matrix and we opt for SVD there. Here, we write $A$ as:
+**奇异值分解**（singular value decomposition, SVD）将矩阵分解为**奇异向量**（singular vector）和**奇异值**（singular value），是另一种分解矩阵的方法。奇异值分解有更广泛的应用。每个实数矩阵都有一个奇异值分解，但不一定都有特征分解。例如，非方阵的矩阵没有特征分解，这时我们只能使用奇异值分解。
+
+在奇异值分解中，我们可以把 $A$ 写成:
 
 $$A = UDV^T $$
 
-**Shapes**:
+矩阵形状:
 - $A$: $m$ x $n$
 - $U$: $m$ x $m$
 - $D$: $m$ x $n$
 - $V$: $n$ x $n$
 
-**Properties**:
-- $U$ and $V$ are defined to be orthogonal matrices. 
-- $D$ is a diagonal matrix (not necessarily square), diagonal elements of which are called **singular values**.
-- The columns of $U$ are known as **left-singular vectors** (eigenvectors of $AA^T$) and those of $V$ are called **right-singular vectors** (eigenvectors of $A^TA$).
-- Most useful feature is to extend matrix inversion to non-square matrices.
+**性质**:
+
+- $U$ 和$V$ 都定义为正交矩阵. 
+- $D$ 是对角矩阵（不一定是方阵），其对角线上的元素被称为矩阵A的 **奇异值(singular values)**.
+- 矩阵 $U$的列向量被称为**左奇异向量(left-singular vectors)** (是 $AA^T$的特征向量) ，矩阵$V$ 的列向量被称为 **右奇异向量(right-singular vectors)** (是 $A^TA$的特征向量).$A$ 的非零奇异值是$A^TA$特征值的平方根，同时也是 $AA^T$特征值的平方根。
+- SVD最有用的一个性质可能是拓展矩阵求逆到非方矩阵上。
 
 
 
 ### 2.9 Moore-Penrose 伪逆
 
-Suppose we want a left-inverse $B$ of a matrix $A$ ($m$ x $n$)to solve a linear equation:
+假设我们希望通过矩阵$A$($m$ x $n$)的左逆 $B$ 来求解线性方程:
 $$ Ax = y \Rightarrow x = By$$ 
 
-We define the pseudoinverse of $A$ as:
+如果矩阵A 的行数大于列数，那么上述方程可能没有解。如果矩阵A 的行数小于列数，那么上述矩阵可能有多个解。
+
+矩阵$A$ 的伪逆定义为:
 
 $$A^+ = \lim\limits_{\alpha \rightarrow 0} (A^TA + \alpha I)^{-1}A^T$$
 
-However, for practical algorithms its defined as:
+计算伪逆的实际算法没有基于这个定义，而是使用下面的公式：
 
 $$ A^+ = VD^+U^T $$
 
-where $U$, $D$ and $V$ are the SVD of $A$ and $D^+$ is obtained by taking the reciprocal of all non-zero elements of D and then taking the transpose of the resulting matrix.
+其中矩阵 $U$, $D$ 和$V$ 是矩阵$A$ 奇异值分解后得到的矩阵，对角矩阵$D$的伪逆 $D^+$ 是其非零元素取倒数之后再转置得到的。
 
 **Case 1**: m <= n
 
-Using $A^+$, gives one of many possible solutions, with the minimal **Euclidean norm**:
+使用伪逆$A^+$求解线性方程是众多可能解法中的一种,下式是方程所有可行解中欧几里得范数$||x||_2$最小的一个:
 
 $$ x = A^{+}y $$
 
 **Case 2**: m > n
 
-It is possible for there to be no solution and $A^+$ gives the $x$ such that $Ax$ is as close to $y$ in terms of the **Euclidean norm** $||Ax - y||$.
+可能没有解，通过伪逆 $A^+$ 得到的 $x$ 使得$Ax$ 和 $y$ 的欧几里得矩阵 $||Ax - y||_2$最小.
 
 ### 2.10 迹运算
 
-The trace operator gives the sum of all the diagonal elements.
+迹运算返回的是矩阵对角元素的和：
 
 $$ Tr(A) = \sum_{i}A_{i,i}$$
 
-Properties:
+性质:
 
-- $||A||_F = \sqrt{Tr(AA^T)} $ (**Frobenius Norm**)
-- $Tr(A) = Tr(A^T)$ (**Transpose Invariance**)
-- $Tr(ABC) = Tr(CAB) = Tr(BCA)$ (**Cyclical Invariance** given that the individual matrix multiplications are defined)
+- $||A||_F = \sqrt{Tr(AA^T)} $ (**Frobenius Norm**矩阵范数的另一种描述方式)
+- $Tr(A) = Tr(A^T)$ (**Transpose Invariance**迹运算在转置运算下是不变的)
+- $Tr(ABC) = Tr(CAB) = Tr(BCA)$ (**Cyclical Invariance** given that the individual matrix multiplications are defined，矩阵中的最后一个挪到最前面)
+- a=Tr(a)，标量在迹运算后仍然是自己
 
-
+即使循环置换后矩阵乘积得到的矩阵形状变了，迹运算的结果依然不变。
 
 ### 2.11行列式
 
-The determinant of a square matrix (denoted by $det(A)$) maps matrices to real scalars. It is equal to the product of all the eigenvalues of the matrix. It denotes how much multiplication by the matrix expands or contracts space. If the value is 0, then space is contracted completely atleast along one dimension causing it to lose all its volume. If the value is 1, then the transformation preserves volume.
+行列式determinant记作$det(A)$ ，是一个将方阵$A$映射到实数的函数。
+
+行列式等于矩阵特征值的乘积。
+
+行列式的绝对值可以用来衡量矩阵参与矩阵乘法后空间扩大或者缩小了多少。如果行列式是0，那么空间至少沿着某一维完全收缩了，使其失去了所有的体积。如果行列式是1，那么这个转换保持空间体积不变。
 
 ### 2.12 实例：主成分分析
 
+主成分分析（principal components analysis, PCA）是一个简单的机器学习算法，可以通过基础的线性代数知识推导。
+
+假设在$R^n $空间中我们有m 个点{$x^{(1)},...,x^{(m)}$}，我们希望对这些点进行有损压缩。有损压缩表示我们使用更少的内存，但损失一些精度去存储这些点。我们希望损失的精度尽可能少。
+
+一种编码这些点的方式是用低维表示。
+
+
+
+
+
+## 第3章 概率与信息论
+
+概率论是用于表示不确定性声明的数学框架。它不仅提供了量化不确定性的方法，也提供了用于导出新的不确定性声明（statement）的公理。在人工智能领域，概率论主要有两种用途。首先，概率法则告诉我们AI 系统如何推理，据此我们设计一些算法来计算或者估算由概率论导出的表达式。其次，我们可以用概率和统计从理论上分析我们提出的AI 系统的行为。
+
+概率论使我们能够提出不确定的声明以及在不确定性存在的情况下进行推理，而信息论使我们能够量化概率分布中的不确定性总量。
+
+### 3.1 为什么要使用概率？
+
+机器学习通常必须处理不确定量，有时也可能需要处理随机(非确定性的) 量。
+
+几乎所有的活动都需要一些在不确定性存在的情况下进行推理的能力。
+
+不确定性有三种可能的来源：
+
+-  被建模系统内在的随机性
+- 不完全观测
+- 不完全建模
+
+在医生诊断病人的例子中（不是可重复实验），我们用概率来表示一种信任度（degree of belief），其中1 表示非常肯定病人患有流感，而0 表示非常肯定病人没有流感。前面那种概率（可重复实验），直接与事件发生的频率相联系，被称为**频率派概率**（frequentist probability）；而后者，涉及到确定性水平，被称为**贝叶斯概率**（Bayesian probability）。
