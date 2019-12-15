@@ -1,6 +1,4 @@
-## 算法和数据结构
-
-
+## [算法和数据结构](https://github.com/LinglingGreat/AlgorithmSum)
 
 ## 数学与统计
 
